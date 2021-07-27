@@ -70,35 +70,21 @@ Finances
 
 _Link to files in this repo from here._
 
-[attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) - This was the welcome packet all attendees received when invited
-
-[cash_stipends.csv](cash_stipends.csv) - Logs for the process of collecting the required cash, and how we handed it out
-
-[covid_safety_plan.md](covid_safety_plan.md) - This was the plan for handling extreme COVID-19 events
-
-[emails.md](emails.md) - All emails sent out during the process
-
-[freedom_waiver.pdf](freedom_waiver.pdf) - Form to indicate if passengers could have unsupervised time
-
-[form.md](form.md) - A copy of the registration form's questions and text
-
-[hackerland.md](hackerland.md) - A brainstorm document focused on creating a Hackerland
-
-[invite_call_script.md](invite_call_script.md) - A general run down of the content of a invite call
-
-[liability_release.pdf](liability_release.pdf) - Required liability release
-
-[memorandum_of_understanding.pdf](memorandum_of_understanding.pdf) - Required to accept invite
-
-[packing_list.pdf](packing_list.pdf)
-
-[parent_guide.pdf](parent_guide.pdf) - To help convince parents about the Zephyr
-
-[slack.md](slack.md) - Slack announcements related to Zephyr
-
-[timeline.md](timeline.md) - The timeline for the journey
-
-[webinar_notes.md](webinar_notes.md) - Notes from parents webinars hosted
+- [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) - This was the welcome packet all attendees received when invited
+- [cash_stipends.csv](cash_stipends.csv) - Logs for the process of collecting the required cash, and how we handed it out
+- [covid_safety_plan.md](covid_safety_plan.md) - This was the plan for handling extreme COVID-19 events
+- [emails.md](emails.md) - All emails sent out during the process
+- [freedom_waiver.pdf](freedom_waiver.pdf) - Form to indicate if passengers could have unsupervised time
+- [form.md](form.md) - A copy of the registration form's questions and text
+- [hackerland.md](hackerland.md) - A brainstorm document focused on creating a Hackerland
+- [invite_call_script.md](invite_call_script.md) - A general run down of the content of a invite call
+- [liability_release.pdf](liability_release.pdf) - Required liability release
+- [memorandum_of_understanding.pdf](memorandum_of_understanding.pdf) - Required to accept invite
+- [packing_list.pdf](packing_list.pdf)
+- [parent_guide.pdf](parent_guide.pdf) - To help convince parents about the Zephyr
+- [slack.md](slack.md) - Slack announcements related to Zephyr
+- [timeline.md](timeline.md) - The timeline for the journey
+- [webinar_notes.md](webinar_notes.md) - Notes from parents webinars hosted
 
 ## Associated Repositories
 
