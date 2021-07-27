@@ -24,6 +24,8 @@ To-do for open sourcing:
 
 - [ ] Comb and annotate finances so Bank is ready to open source
 
+  - Flagging now that there are some travel expenses that I (Zach) don't remember us approving
+
 - [ ] Read-only version of ZephyrNET online
 
 ## Structure for open sourcing
