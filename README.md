@@ -72,6 +72,8 @@ _Link to files in this repo from here._
 
 [freedom_waiver.pdf](freedom_waiver.pdf) - Form to indicate if passengers could have unsupervised time
 
+[form.md](form.md) - A copy of the registration form's questions and text
+
 [invite_call_script.md](invite_call_script.md) - A general run down of the content of a invite call
 
 [liability_release.pdf](liability_release.pdf) - Required liability release
