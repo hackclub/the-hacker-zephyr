@@ -8,6 +8,14 @@ To-do for wrap-up more generally:
 
 - [ ] Everyone on team gets all their reimbursements in
 
+      - [x] Zach Latta
+      - [ ] Max
+      - [ ] Zach Fogg
+      - [ ] Christina
+      - [ ] Tina
+      - [ ] Woody
+      - [ ] Matthew
+
 - [ ] Anything Hack Club needs to get reimbursed for from teammates (ex. ticket costs)
 
 - [ ] Pay all contractors / actors, including any bonuses
