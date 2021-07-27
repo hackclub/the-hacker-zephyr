@@ -107,7 +107,7 @@ _Link to files in this repo from here._
 - [Ticket issuing service for announcement](https://github.com/hackclub/tickets-all-aboard)
 - [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service) (still private - [does this repo do anything too?](https://github.com/hackclub/deploy))
 - still private - [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
-- [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
+- [(not used) start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
 - [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
 - [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
 - [(ultimately not used) - captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr)
