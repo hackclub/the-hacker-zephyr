@@ -16,6 +16,8 @@ To-do for wrap-up more generally:
 
 - [ ] Get a bunch of money from American Airlines for messing up so many flights and stranding Hack Clubbers
 
+  - At least $196 x 2 for hotels for Lux and Rebecca when AA stranded them
+
 To-do for open sourcing:
 
 - [ ] Planning documents. What's the best format for these? Maybe narrative form?
