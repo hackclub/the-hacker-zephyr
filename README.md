@@ -66,6 +66,8 @@ _Link to files in this repo from here._
 
 [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) - This was the welcome packet all attendees received when invited
 
+[cash_stipends.csv](cash_stipends.csv) - Logs for the process of collecting the required cash, and how we handed it out
+
 [covid_safety_plan.md](covid_safety_plan.md) - This was the plan for handling extreme COVID-19 events
 
 [emails.md](emails.md) - All emails sent out during the process
