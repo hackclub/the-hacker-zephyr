@@ -8,6 +8,8 @@ To-do for wrap-up more generally:
 
 - [ ] Everyone on team gets all their reimbursements in
 
+- [ ] Anything Hack Club needs to get reimbursed for from teammates (ex. ticket costs)
+
 - [ ] Pay all contractors / actors, including any bonuses
 
 - [ ] Thank you notes
