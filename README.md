@@ -96,6 +96,8 @@ _Link to files in this repo from here._
 
 [timeline.md](timeline.md) - The timeline for the journey
 
+[webinar_notes.md](webinar_notes.md) - Notes from parents webinars hosted
+
 ## Associated Repositories
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
