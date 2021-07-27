@@ -24,6 +24,46 @@ To-do for open sourcing:
 
 - [ ] Read-only version of ZephyrNET online
 
+## Structure for open sourcing
+
+Four parts to open sourcing:
+
+1. Aggregate planning docs
+2. Write-ups:
+
+   - Deploy flow / how the ZephyrNET works
+   - Finances / the money behind it
+   - How we got the train / train problems / Melody's post
+
+3. Bank transparency mode
+4. ZephyrNET read-only mode
+
+### Outline ideas by Zach
+
+Should this be in narrative form? Or maybe just link all the files?
+
+---
+
+Ideation
+
+Securing the train (maybe share emails?)
+
+Announcement
+
+Invitation process - The why behind it and the execution of it itself
+
+ZephyrNET / Hackathon purpose (What we wanted to accomplish / what we didn't want to happen)
+
+Day-of schedule
+
+Funding
+
+Finances
+
+## Index of files in this repository
+
+_Link to files in this repo from here._
+
 ## Associated Repositories
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
