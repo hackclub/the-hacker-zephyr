@@ -4,8 +4,6 @@
 
 **4/7/21 (Monday) - Packing List & Waiver**
 
-Email goes out to all attendees saying we're excited to see them next Thursday. Includes a packing list and a waiver we need signed.
-
 Ahoy there!
 
 I feel like I can hear the train in the distance– next Thursday is getting oh so close! We’re really excited to get to meet you next week!
