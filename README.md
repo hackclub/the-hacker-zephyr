@@ -64,6 +64,26 @@ Finances
 
 _Link to files in this repo from here._
 
+[attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) - This was the welcome packet all attendees received when invited
+
+[covid_safety_plan.md](covid_safety_plan.md) - This was the plan for handling extreme COVID-19 events
+
+[emails.md](emails.md) - All emails sent out during the process
+
+[freedom_waiver.pdf](freedom_waiver.pdf) - Form to indicate if passengers could have unsupervised time
+
+[invite_call_script.md](invite_call_script.md) - A general run down of the content of a invite call
+
+[liability_release.pdf](liability_release.pdf) - Required liability release
+
+[memorandum_of_understanding.pdf](memorandum_of_understanding.pdf) - Required to accept invite
+
+[packing_list.pdf](packing_list.pdf)
+
+[parent_guide.pdf](parent_guide.pdf) - To help convince parents about the Zephyr
+
+[slack.md](slack.md) - Slack announcements related to Zephyr
+
 ## Associated Repositories
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
