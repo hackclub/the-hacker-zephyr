@@ -90,6 +90,8 @@ _Link to files in this repo from here._
 
 [slack.md](slack.md) - Slack announcements related to Zephyr
 
+[timeline.md](timeline.md) - The timeline for the journey
+
 ## Associated Repositories
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
