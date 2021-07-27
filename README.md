@@ -78,6 +78,8 @@ _Link to files in this repo from here._
 
 [form.md](form.md) - A copy of the registration form's questions and text
 
+[hackerland.md](hackerland.md) - A brainstorm document focused on creating a Hackerland
+
 [invite_call_script.md](invite_call_script.md) - A general run down of the content of a invite call
 
 [liability_release.pdf](liability_release.pdf) - Required liability release
