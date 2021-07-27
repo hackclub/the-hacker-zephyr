@@ -18,6 +18,8 @@ To-do for wrap-up more generally:
 
   - At least $196 x 2 for hotels for Lux and Rebecca when AA stranded them
 
+  - Additional $401.40 + $161.25 charges on Max's cards when they said they'd only charge $120 for UM fee
+
 To-do for open sourcing:
 
 - [ ] Planning documents. What's the best format for these? Maybe narrative form?
