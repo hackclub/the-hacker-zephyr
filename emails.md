@@ -1,6 +1,6 @@
-# Packing List & Waiver Details
+# Emails
 
-> These were emails sent to attendees regarding packing lists.
+> These were emails all the emails we sent out!
 
 **4/7/21 (Monday) - Packing List & Waiver**
 
