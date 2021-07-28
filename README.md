@@ -114,6 +114,15 @@ _Link to files in this repo from here._
 | _[/train_valley](/design_and_assets/train_valley)_ | A train in a valley artwork |
 | [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key) | Keynote file used to make headers for guides |
 | [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf) | PDF version of the aforementioned file |
+| **`/design_and_assets/melody's_amazing_train_explainer`** |  |
+| [1.png](/design_and_assets/melody's_amazing_train_explainer/1.png) | First screenshot of messages |
+| [2.png](/design_and_assets/melody's_amazing_train_explainer/2.png) | |
+| [3.png](/design_and_assets/melody's_amazing_train_explainer/3.png) | |
+| [4.png](/design_and_assets/melody's_amazing_train_explainer/4.png) | |
+| [5.png](/design_and_assets/melody's_amazing_train_explainer/5.png) | |
+| [6.png](/design_and_assets/melody's_amazing_train_explainer/6.png) | Last screenshot of messages |
+| **`/design_and_assets/monument_valley`** |  |
+| TBC |  |
 
 ## Associated Repositories
 
