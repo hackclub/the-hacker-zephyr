@@ -82,10 +82,10 @@ _Link to files in this repo from here._
 
 | `/` |  |
 |--|--|
-| [/design_and_assets](/design_and_assets) |  |
-| [/meeting_notes](/meeting_notes) |  |
-| [/superdome_and_sleeper_cars](/superdome_and_sleeper_cars) |  |
-| [/zephyrnet](/zephyrnet) |  |
+| _[/design_and_assets](/design_and_assets)_ |  |
+| _[/meeting_notes](/meeting_notes)_ |  |
+| _[/superdome_and_sleeper_cars](/superdome_and_sleeper_cars)_ |  |
+| _[/zephyrnet](/zephyrnet)_  |  |
 | [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) | This was the welcome packet all attendees received when invited |
 | [cash_stipends.csv](cash_stipends.csv) | Logs for the process of collecting the required cash, and how we handed it out |
 | [covid_safety_plan.md](covid_safety_plan.md)  | This was the plan for handling extreme COVID-19 events |
@@ -111,7 +111,7 @@ _Link to files in this repo from here._
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
 - [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
 - [Ticket issuing service for announcement](https://github.com/hackclub/tickets-all-aboard)
-- [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service) (still private - [does this repo do anything too?](https://github.com/hackclub/deploy))
+- [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service) (still private)
 - still private - [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
 - [(not used) start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
 - [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
