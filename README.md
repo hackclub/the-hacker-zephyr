@@ -82,6 +82,10 @@ _Link to files in this repo from here._
 
 | `/` |  |
 |--|--|
+| [/design_and_assets](/design_and_assets) |  |
+| [/meeting_notes](/meeting_notes) |  |
+| [/superdome_and_sleeper_cars](/superdome_and_sleeper_cars) |  |
+| [/zephyrnet](/zephyrnet) |  |
 | [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) | This was the welcome packet all attendees received when invited |
 | [cash_stipends.csv](cash_stipends.csv) | Logs for the process of collecting the required cash, and how we handed it out |
 | [covid_safety_plan.md](covid_safety_plan.md)  | This was the plan for handling extreme COVID-19 events |
@@ -98,9 +102,7 @@ _Link to files in this repo from here._
 | [timeline.md](timeline.md) |  The timeline for the journey | 
 | [video_editorial_notes.md](video_editorial_notes.md) |  Discussions around documentary | 
 | [webinar_notes.md](webinar_notes.md) |  Notes from parents webinars hosted | 
-
-| `/design_and_assets` |  |
-|--|--|
+| **`/design_and_assets`** |  |
 | [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key) | Keynote file used to make headers for guides |
 | [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf) | PDF version of the aforementioned file |
 
