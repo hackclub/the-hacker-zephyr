@@ -80,8 +80,9 @@ Finances
 
 _Link to files in this repo from here._
 
-| `/` |  |
+| File | Description  |
 |--|--|
+| **`/`** |  |
 | _[/design_and_assets](/design_and_assets)_ |  |
 | _[/meeting_notes](/meeting_notes)_ |  |
 | _[/superdome_and_sleeper_cars](/superdome_and_sleeper_cars)_ |  |
@@ -103,6 +104,14 @@ _Link to files in this repo from here._
 | [video_editorial_notes.md](video_editorial_notes.md) |  Discussions around documentary | 
 | [webinar_notes.md](webinar_notes.md) |  Notes from parents webinars hosted | 
 | **`/design_and_assets`** |  |
+| _[/melody's_amazing_train_explainer](/design_and_assets/melody's_amazing_train_explainer)_ | An explanation of why the physical cap existed |
+| _[/monument_valley](/design_and_assets/monument_valley)_ | Experiments in rendering a 3D landscape |
+| _[/poster](/design_and_assets/poster)_ | Iterations of the poster seen on the Zephyr homepage |
+| _[/sketches](/design_and_assets/sketches)_ | Sketches made during the branding brainstorm |
+| _[/teasers](/design_and_assets/teasers)_ | Teasers made to build up hype for the Zephyr announcement call |
+| _[/train_nyc](/design_and_assets/train_nyc)_ | NYC landscape artwork  |
+| _[/train_starry_night](/design_and_assets/train_starry_night)_ | A train in a starry night artwork |
+| _[/train_valley](/design_and_assets/train_valley)_ | A train in a valley artwork |
 | [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key) | Keynote file used to make headers for guides |
 | [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf) | PDF version of the aforementioned file |
 
