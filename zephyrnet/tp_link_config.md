@@ -1,3 +1,7 @@
+# TP-Link Config
+
+This is a config file for the tp-link ethernet switches that Dan Eckert let us use. This is actual code to paste via serial terminal.
+
 Hardware Version - TL-SG3424P 2.0
 
 Software Version - 1.0.9 Build 20150715 Rel.33297(s)
