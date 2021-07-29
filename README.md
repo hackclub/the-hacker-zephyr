@@ -2,9 +2,9 @@
 
 Every summer Hack Clubbers do something special.
 
-In 2019, 75 Hack Club leaders gathered in San Francisco for Flagship.
+In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB).
 
-In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched Scrapbook, and hosted the Summer of Making.
+In 2020, 300 Hack Clubbers received $50,000 for [hardware projects](https://summer.hackclub.com). We launched Scrapbook, and hosted the [Summer of Making](https://summer.hackclub.com).
 
 **In 2021, we're chartered a train, the [Hacker Zephyr](https://zephyr.hackclub.com), across America.**
 
@@ -136,13 +136,13 @@ The finances for the Hacker Zephyr have been open sourced [here](http://bank.hac
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
 - [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
-- [Ticket issuing service for announcement](https://github.com/hackclub/tickets-all-aboard)
+- [Ticket issuing service for announcement](https://github.com/hackclub/tickets-all-aboard) (still private)
 - [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service) (still private)
-- still private - [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
-- [(not used) start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
+- [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub) (still private)
+- [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr) (not used)
 - [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
 - [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
-- [(ultimately not used) - captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr)
+- [captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr) (ultimately not used) 
 
 ----
 
