@@ -36,6 +36,7 @@ This repository contains the open sourced planning documents, finances, and code
 | _[/train_nyc](/design_and_assets/train_nyc)_ | NYC landscape artwork  |
 | _[/train_starry_night](/design_and_assets/train_starry_night)_ | A train in a starry night artwork |
 | _[/train_valley](/design_and_assets/train_valley)_ | A train in a valley artwork |
+| [teasers.md](/design_and_assets/teasers.md) | Links to the teasers YouTube playlist  |
 | [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key) | Keynote file used to make headers for guides |
 | [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf) | PDF version of the aforementioned file |
 | **`/design_and_assets/melody's_amazing_train_explainer`** |  |
@@ -52,6 +53,20 @@ This repository contains the open sourced planning documents, finances, and code
 | [monument_valley.blend](/design_and_assets/monument_valley/monument_valley.blend) | The artwork's blender file |
 | [render.png](/design_and_assets/monument_valley/render.png) | Rendered version |
 | [sketch.png](/design_and_assets/monument_valley/sketch.png) | Draft sketch |
+| **`/design_and_assets/poster`** |  |
+| [format_1.png](/design_and_assets/poster/format_1.png) | First iteration of the poster |
+| [format_2.png](/design_and_assets/poster/format_2.png) | |
+| [format_3.png](/design_and_assets/poster/format_3.png) | |
+| [format_4.png](/design_and_assets/poster/format_4.png) | |
+| [format_5.png](/design_and_assets/poster/format_5.png) | |
+| [format_6.png](/design_and_assets/poster/format_6.png) | |
+| [format_7_final.png](/design_and_assets/poster/format_7_final.png) | Final iteration of the poster |
+| [zephyr-poster.psd](/design_and_assets/poster/zephyr-poster.psd) | Photoshop file for the poster |
+| **`/design_and_assets/sketches`** |  |
+| [fonts.png](/design_and_assets/sketches/fonts.png) | Hand drawn fonts |
+| [landscapes.png](/design_and_assets/sketches/landscapes.png) | Landscape artwork planning |
+| [README.md](/design_and_assets/sketches/README.md) | Has links to drawing timelapses |
+| [stamps.png](/design_and_assets/sketches/stamps.png) | Hacker Zephyr stamps |
 
 ## Associated Repositories
 
