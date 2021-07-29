@@ -1,6 +1,18 @@
 # 🚂 The Hacker Zephyr 
 
-This repository contains the open sourced planning documents, finances, and code behind [The Hacker Zephyr](https://zephyr.hackclub.com), the longest hackathon to ever happen on land (3,520 miles).
+Every summer Hack Clubbers do something special.
+
+In 2019, 75 Hack Club leaders gathered in San Francisco for Flagship.
+
+In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched Scrapbook, and hosted the Summer of Making.
+
+**In 2021, we're chartered a train, the [Hacker Zephyr](https://zephyr.hackclub.com), across America.**
+
+We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
+
+Onboard, we hosted the world's longest hackathon on land: 3,502 miles long.
+
+This repository contains the open sourced planning documents, finances, and code behind the Hacker Zephyr. 
 
 ## 🗃 Planning Documents
 
