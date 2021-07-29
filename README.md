@@ -2,7 +2,7 @@
 
 This repository contains the open sourced planning documents, finances, and code behind [The Hacker Zephyr](https://zephyr.hackclub.com), the longest hackathon to ever happen on land (3,520 miles).
 
-## 🗃 Index of Files
+## 🗃 Planning Documents
 
 | File | Description  |
 |--|--|
