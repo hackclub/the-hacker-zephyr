@@ -130,7 +130,7 @@ This repository contains the open sourced [planning documents](https://github.co
 
 ## 💵 Finances
 
-The finances for the Hacker Zephyr have been open sourced [here](http://bank.hackclub.com/train) through Hack Club Bank's [transparency mode](https://twitter.com/hackclub/status/1262471150963130374).
+The finances for the Hacker Zephyr have been open sourced [here](http://bank.hackclub.com/train) through Hack Club Bank's [transparency mode](https://twitter.com/hackclub/status/1262471150963130374). We've also produced a transparency update which runs through all the finances, you can read here (coming soon).
 
 ## 💻 Associated Code Repositories
 
