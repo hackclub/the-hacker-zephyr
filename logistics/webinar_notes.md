@@ -1,7 +1,6 @@
 # Webinar Notes!
 
-> These are a bunch of notes from questions that came up during our webinars
-
+_These are a bunch of notes from questions that came up during our parent webinars_
 
 ## 6/3/21
 
