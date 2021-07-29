@@ -22,7 +22,7 @@ This repository contains the open sourced [planning documents](#-planning-docume
 |--|--|
 | **`/`** |  |
 | _[/design_and_assets](/design_and_assets)_ |  |
-| _[/meeting_notes](/meeting_notes)_ |  |
+| _[/notes](/notes)_ |  |
 | _[/superdome_and_sleeper_cars](/superdome_and_sleeper_cars)_ |  |
 | _[/zephyrnet](/zephyrnet)_  |  |
 | [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) | This was the welcome packet all attendees received when invited |
@@ -96,19 +96,19 @@ This repository contains the open sourced [planning documents](#-planning-docume
 | [2.jpg](/design_and_assets/train_valley/announcement_cards/2.jpg) | |
 | [3.jpg](/design_and_assets/train_valley/announcement_cards/3.jpg) | |
 | [full.png](/design_and_assets/train_valley/announcement_cards/full.png) | All three cards combined |
-| **`/meeting_notes`** |  |
-| [2021-05-05_call_with_amtrak.md](/meeting_notes/2021-05-05_call_with_amtrak.md) | Learning more about the train process |
-| [2021-05-25_theme_brainstorm.md](/meeting_notes/2021-05-25_theme_brainstorm.md) | Early brainstorm focused on student experience |
-| [2021-05-27_meeting_about_saturday_call.md](/meeting_notes/2021-05-27_meeting_about_saturday_call.md) | Planning for the announcement call |
-| [2021-05-27_zephyr_manifesto.md](/meeting_notes/2021-05-27_zephyr_manifesto.md) | Originally written to go on the signup page at zephyr.hackclub.com |
-| [2021-05-28_pre-zephyr_email.md](/meeting_notes/2021-05-28_pre-zephyr_email.md) | For Slack members |
-| [2021-06-02_the_thinking_on_gifts.md](/meeting_notes/2021-06-02_the_thinking_on_gifts.md) | Unreleased Slack message clarifying gifts |
-| [2021-06-03_international_travel.md](/meeting_notes/2021-06-03_international_travel.md) | Research into how international students could travel |
-| [2021-06-16_freedom_waiver.md](/meeting_notes/2021-06-16_freedom_waiver.md) | |
-| [2021-06-23_invites_have_gone_out.md](/meeting_notes/2021-06-23_invites_have_gone_out.md) | |
-| [2021-06-29_call_with_steve.md](/meeting_notes/2021-06-29_call_with_steve.md) | More info about trains |
-| [2021-06-29_unsupervised_time.md](/meeting_notes/2021-06-29_unsupervised_time.md) | |
-| [2021-07-02_open_community_call.md](/meeting_notes/2021-07-02_open_community_call.md) | Addressing questions/concerns from community members about Zephyr |
+| **`/notes`** |  |
+| [2021-05-05_call_with_amtrak.md](/notes/2021-05-05_call_with_amtrak.md) | Learning more about the train process |
+| [2021-05-25_theme_brainstorm.md](/notes/2021-05-25_theme_brainstorm.md) | Early brainstorm focused on student experience |
+| [2021-05-27_meeting_about_saturday_call.md](/notes/2021-05-27_meeting_about_saturday_call.md) | Planning for the announcement call |
+| [2021-05-27_zephyr_manifesto.md](/notes/2021-05-27_zephyr_manifesto.md) | Originally written to go on the signup page at zephyr.hackclub.com |
+| [2021-05-28_pre-zephyr_email.md](/notes/2021-05-28_pre-zephyr_email.md) | For Slack members |
+| [2021-06-02_the_thinking_on_gifts.md](/notes/2021-06-02_the_thinking_on_gifts.md) | Unreleased Slack message clarifying gifts |
+| [2021-06-03_international_travel.md](/notes/2021-06-03_international_travel.md) | Research into how international students could travel |
+| [2021-06-16_freedom_waiver.md](/notes/2021-06-16_freedom_waiver.md) | |
+| [2021-06-23_invites_have_gone_out.md](/notes/2021-06-23_invites_have_gone_out.md) | |
+| [2021-06-29_call_with_steve.md](/notes/2021-06-29_call_with_steve.md) | More info about trains |
+| [2021-06-29_unsupervised_time.md](/notes/2021-06-29_unsupervised_time.md) | |
+| [2021-07-02_open_community_call.md](/notes/2021-07-02_open_community_call.md) | Addressing questions/concerns from community members about Zephyr |
 | **`/superdome_and_sleeper_cars`** |  |
 | [photos_from_steve_1.jpg](/superdome_and_sleeper_cars/photos_from_steve_1.jpg) | The first of many photos from Steve of the train |
 | [photos_from_steve_2.jpg](/superdome_and_sleeper_cars/photos_from_steve_2.jpg) | |
