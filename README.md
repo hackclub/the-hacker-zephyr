@@ -2,6 +2,70 @@
 
 This repository contains the open sourced planning documents, finances, and code behind [The Hacker Zephyr](https://zephyr.hackclub.com), the longest hackathon to ever happen on land (3,520 miles).
 
+## Index of files in this repository
+
+_Link to files in this repo from here._
+
+| File | Description  |
+|--|--|
+| **`/`** |  |
+| _[/design_and_assets](/design_and_assets)_ |  |
+| _[/meeting_notes](/meeting_notes)_ |  |
+| _[/superdome_and_sleeper_cars](/superdome_and_sleeper_cars)_ |  |
+| _[/zephyrnet](/zephyrnet)_  |  |
+| [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) | This was the welcome packet all attendees received when invited |
+| [cash_stipends.csv](cash_stipends.csv) | Logs for the process of collecting the required cash, and how we handed it out |
+| [covid_safety_plan.md](covid_safety_plan.md)  | This was the plan for handling extreme COVID-19 events |
+| [emails.md](emails.md) | All emails sent out during the process |
+| [freedom_waiver.pdf](freedom_waiver.pdf) | Form to indicate if passengers could have unsupervised time |
+| [form.md](form.md)| A copy of the registration form's questions and text |
+| [hackerland.md](hackerland.md) |  A brainstorm document focused on creating a Hackerland| 
+| [invite_call_script.md](invite_call_script.md) |  A general run down of the content of a invite call| 
+| [liability_release.pdf](liability_release.pdf) |  Required liability release| 
+| [memorandum_of_understanding.pdf](memorandum_of_understanding.pdf) | Required to accept invite | 
+| [packing_list.pdf](packing_list.pdf) | | 
+| [parent_guide.pdf](parent_guide.pdf) |  To help convince parents about the Zephyr| 
+| [slack.md](slack.md) |  Slack announcements related to Zephyr| 
+| [timeline.md](timeline.md) |  The timeline for the journey | 
+| [video_editorial_notes.md](video_editorial_notes.md) |  Discussions around documentary | 
+| [webinar_notes.md](webinar_notes.md) |  Notes from parents webinars hosted | 
+| **`/design_and_assets`** |  |
+| _[/melody's_amazing_train_explainer](/design_and_assets/melody's_amazing_train_explainer)_ | An explanation of why the physical cap existed |
+| _[/monument_valley](/design_and_assets/monument_valley)_ | Experiments in rendering a 3D landscape |
+| _[/poster](/design_and_assets/poster)_ | Iterations of the poster seen on the Zephyr homepage |
+| _[/sketches](/design_and_assets/sketches)_ | Sketches made during the branding brainstorm |
+| _[/teasers](/design_and_assets/teasers)_ | Teasers made to build up hype for the Zephyr announcement call |
+| _[/train_nyc](/design_and_assets/train_nyc)_ | NYC landscape artwork  |
+| _[/train_starry_night](/design_and_assets/train_starry_night)_ | A train in a starry night artwork |
+| _[/train_valley](/design_and_assets/train_valley)_ | A train in a valley artwork |
+| [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key) | Keynote file used to make headers for guides |
+| [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf) | PDF version of the aforementioned file |
+| **`/design_and_assets/melody's_amazing_train_explainer`** |  |
+| [1.png](/design_and_assets/melody's_amazing_train_explainer/1.png) | First screenshot of messages |
+| [2.png](/design_and_assets/melody's_amazing_train_explainer/2.png) | |
+| [3.png](/design_and_assets/melody's_amazing_train_explainer/3.png) | |
+| [4.png](/design_and_assets/melody's_amazing_train_explainer/4.png) | |
+| [5.png](/design_and_assets/melody's_amazing_train_explainer/5.png) | |
+| [6.png](/design_and_assets/melody's_amazing_train_explainer/6.png) | Last screenshot of messages |
+| **`/design_and_assets/monument_valley`** |  |
+| TBC |  |
+
+## Associated Repositories
+
+- [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
+- [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
+- [Ticket issuing service for announcement](https://github.com/hackclub/tickets-all-aboard)
+- [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service) (still private)
+- still private - [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
+- [(not used) start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
+- [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
+- [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
+- [(ultimately not used) - captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr)
+
+----
+
+## To Do
+
 To-do for wrap-up more generally:
 
 - [ ] Final email sent out to all on board
@@ -75,63 +139,3 @@ Day-of schedule
 Funding
 
 Finances
-
-## Index of files in this repository
-
-_Link to files in this repo from here._
-
-| File | Description  |
-|--|--|
-| **`/`** |  |
-| _[/design_and_assets](/design_and_assets)_ |  |
-| _[/meeting_notes](/meeting_notes)_ |  |
-| _[/superdome_and_sleeper_cars](/superdome_and_sleeper_cars)_ |  |
-| _[/zephyrnet](/zephyrnet)_  |  |
-| [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf) | This was the welcome packet all attendees received when invited |
-| [cash_stipends.csv](cash_stipends.csv) | Logs for the process of collecting the required cash, and how we handed it out |
-| [covid_safety_plan.md](covid_safety_plan.md)  | This was the plan for handling extreme COVID-19 events |
-| [emails.md](emails.md) | All emails sent out during the process |
-| [freedom_waiver.pdf](freedom_waiver.pdf) | Form to indicate if passengers could have unsupervised time |
-| [form.md](form.md)| A copy of the registration form's questions and text |
-| [hackerland.md](hackerland.md) |  A brainstorm document focused on creating a Hackerland| 
-| [invite_call_script.md](invite_call_script.md) |  A general run down of the content of a invite call| 
-| [liability_release.pdf](liability_release.pdf) |  Required liability release| 
-| [memorandum_of_understanding.pdf](memorandum_of_understanding.pdf) | Required to accept invite | 
-| [packing_list.pdf](packing_list.pdf) | | 
-| [parent_guide.pdf](parent_guide.pdf) |  To help convince parents about the Zephyr| 
-| [slack.md](slack.md) |  Slack announcements related to Zephyr| 
-| [timeline.md](timeline.md) |  The timeline for the journey | 
-| [video_editorial_notes.md](video_editorial_notes.md) |  Discussions around documentary | 
-| [webinar_notes.md](webinar_notes.md) |  Notes from parents webinars hosted | 
-| **`/design_and_assets`** |  |
-| _[/melody's_amazing_train_explainer](/design_and_assets/melody's_amazing_train_explainer)_ | An explanation of why the physical cap existed |
-| _[/monument_valley](/design_and_assets/monument_valley)_ | Experiments in rendering a 3D landscape |
-| _[/poster](/design_and_assets/poster)_ | Iterations of the poster seen on the Zephyr homepage |
-| _[/sketches](/design_and_assets/sketches)_ | Sketches made during the branding brainstorm |
-| _[/teasers](/design_and_assets/teasers)_ | Teasers made to build up hype for the Zephyr announcement call |
-| _[/train_nyc](/design_and_assets/train_nyc)_ | NYC landscape artwork  |
-| _[/train_starry_night](/design_and_assets/train_starry_night)_ | A train in a starry night artwork |
-| _[/train_valley](/design_and_assets/train_valley)_ | A train in a valley artwork |
-| [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key) | Keynote file used to make headers for guides |
-| [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf) | PDF version of the aforementioned file |
-| **`/design_and_assets/melody's_amazing_train_explainer`** |  |
-| [1.png](/design_and_assets/melody's_amazing_train_explainer/1.png) | First screenshot of messages |
-| [2.png](/design_and_assets/melody's_amazing_train_explainer/2.png) | |
-| [3.png](/design_and_assets/melody's_amazing_train_explainer/3.png) | |
-| [4.png](/design_and_assets/melody's_amazing_train_explainer/4.png) | |
-| [5.png](/design_and_assets/melody's_amazing_train_explainer/5.png) | |
-| [6.png](/design_and_assets/melody's_amazing_train_explainer/6.png) | Last screenshot of messages |
-| **`/design_and_assets/monument_valley`** |  |
-| TBC |  |
-
-## Associated Repositories
-
-- [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
-- [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
-- [Ticket issuing service for announcement](https://github.com/hackclub/tickets-all-aboard)
-- [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service) (still private)
-- still private - [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
-- [(not used) start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
-- [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
-- [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
-- [(ultimately not used) - captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr)
