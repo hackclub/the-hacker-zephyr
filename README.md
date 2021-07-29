@@ -6,15 +6,17 @@ In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://p
 
 In 2020, 300 Hack Clubbers received $50,000 for [hardware projects](https://summer.hackclub.com). We launched Scrapbook, and hosted the [Summer of Making](https://summer.hackclub.com).
 
-**In 2021, we're chartered a train, the [Hacker Zephyr](https://zephyr.hackclub.com), across America.**
+**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest land-based hackathon on board (3,502 miles).**
 
 <img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />
 
 We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
 
-Onboard, we hosted the world's longest hackathon on land: 3,502 miles long.
+The challenge of the hackathon: if we can't have access to the internet, why not build our own?
 
-This repository contains the open sourced [planning documents](#-planning-documents), [finances](#-finances), and [code](#-associated-code-repositories) behind the Hacker Zephyr. If you find an issue with a document or would like to request more information about the trip, please file an issue [here](https://github.com/hackclub/the-hacker-zephyr/issues/new).
+We purchased and lugged a 116lb server with 192 GB of RAM across the country, and gave everyone onboard full root access to it. The goal was to make 500 contributions to the ZephyrNET before arriving in LA, or else some of the data would be deleted.
+
+This repository contains the open sourced [planning documents](#-planning-documents), [finances](#-finances), and [code](#-associated-code-repositories) behind The Hacker Zephyr. If you find an issue with a document or would like to request more information about the trip, please file an issue [here](https://github.com/hackclub/the-hacker-zephyr/issues/new).
 
 ## 🗃 Planning Documents
 
