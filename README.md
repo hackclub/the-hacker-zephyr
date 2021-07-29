@@ -67,6 +67,21 @@ This repository contains the open sourced planning documents, finances, and code
 | [landscapes.png](/design_and_assets/sketches/landscapes.png) | Landscape artwork planning |
 | [README.md](/design_and_assets/sketches/README.md) | Has links to drawing timelapses |
 | [stamps.png](/design_and_assets/sketches/stamps.png) | Hacker Zephyr stamps |
+| **`/design_and_assets/train_nyc`** |  |
+| [train_nyc.png](/design_and_assets/train_nyc/train_nyc.png) | |
+| [train_nyc.psd](/design_and_assets/train_nyc/train_nyc.psd) | |
+| **`/design_and_assets/train_starry_night`** |  |
+| [train_starry_night.png](/design_and_assets/train_starry_night/train_starry_night.png) | |
+| [train_starry_night.psd](/design_and_assets/train_starry_night/train_starry_night.psd) | |
+| **`/design_and_assets/train_valley`** |  |
+| _[/announcement_cards](/design_and_assets/train_valley/announcement_cards)_ | Transformed into three images for the Slack announcement |
+| [train_valley.png](/design_and_assets/train_valley/train_valley.png) | |
+| [train_valley.psd](/design_and_assets/train_valley/train_valley.psd) | |
+| **`/design_and_assets/train_valley/announcement_cards`** |  |
+| [1.jpg](/design_and_assets/train_valley/announcement_cards/1.jpg) | |
+| [2.jpg](/design_and_assets/train_valley/announcement_cards/2.jpg) | |
+| [3.jpg](/design_and_assets/train_valley/announcement_cards/3.jpg) | |
+| [full.png](/design_and_assets/train_valley/announcement_cards/full.png) | All three cards combined |
 
 ## Associated Repositories
 
