@@ -27,13 +27,15 @@ This repository contains the open sourced [planning documents](#-planning-docume
 
 ## 🗃 Planning Documents
 
+Our planning docs are organizzed by topic into the following directories:
+
 | File                                                                                          | Description                                                                    |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| _[/design_and_assets](/design_and_assets)_                                                    | Sketches, logos, videos, etc. that we used to market the Zephyr |
-| _[/notes](/notes)_                                                                            | Assorted notes from staff |
-| _[/superdome_and_sleeper_cars](/superdome_and_sleeper_cars)_                                  | Documents sent by the private train staff |
-| _[/zephyrnet](/zephyrnet)_                                                                    | Documentation / notes on the hardware & software that went into building the Zephyr's intranet |
-| [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf)                                    | This was the welcome packet all attendees received when invited                |
+| [/assets](/assets)                                                    | Sketches, logos, videos, etc. that we used to market the Zephyr |
+| [/logistics](/logistics) | Documentation on planning, scheduling, coordinating, and other details |
+| [/notes](/notes)                                                                            | Assorted notes from staff |
+| [/zephyrnet](/zephyrnet)                                                                    | Technical documentation / notes on the hardware & software that went into building the Zephyr's intranet |
+<!-- | [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf)                                    | This was the welcome packet all attendees received when invited                |
 | [cash_stipends.csv](cash_stipends.csv)                                                        | Logs for the process of collecting the required cash, and how we handed it out |
 | [covid_safety_plan.md](covid_safety_plan.md)                                                  | This was the plan for handling extreme COVID-19 events                         |
 | [emails.md](emails.md)                                                                        | All emails sent out during the process                                         |
@@ -134,7 +136,7 @@ This repository contains the open sourced [planning documents](#-planning-docume
 | [hardware_brainstorm_w_chaleb.md](/zephyrnet/hardware_brainstorm_w_chaleb.md)                 | Looking into what hardware to buy                                              |
 | [introduction.md](/zephyrnet/introduction.md)                                                 | Introduction message                                                           |
 | [software.md](/zephyrnet/software.md)                                                         | Brainstorm into the software used                                              |
-| [tp_link_config.md](/zephyrnet/tp_link_config.md)                                             | Config file for the tp-link ethernet switches                                  |
+| [tp_link_config.md](/zephyrnet/tp_link_config.md)                                             | Config file for the tp-link ethernet switches                                  | -->
 
 ## 💵 Finances
 
