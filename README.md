@@ -12,7 +12,7 @@ We began at Hack Club HQ in Burlington, Vermont, travelled down south to New Yor
 
 Onboard, we hosted the world's longest hackathon on land: 3,502 miles long.
 
-This repository contains the open sourced planning documents, finances, and code behind the Hacker Zephyr. 
+This repository contains the open sourced planning documents, finances, and code behind the Hacker Zephyr. If you find an issue with a document or would like to request more information about the trip, please file an issue [here](https://github.com/hackclub/the-hacker-zephyr/issues/new).
 
 ## 🗃 Planning Documents
 
