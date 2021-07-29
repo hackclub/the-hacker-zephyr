@@ -6,7 +6,7 @@ In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://p
 
 In 2020, 300 Hack Clubbers received $50,000 for [hardware projects](https://summer.hackclub.com). We launched Scrapbook, and hosted the [Summer of Making](https://summer.hackclub.com).
 
-**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest land-based hackathon on board (3,502 miles).**
+**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).**
 
 <img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />
 
