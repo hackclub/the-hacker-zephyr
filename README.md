@@ -8,6 +8,8 @@ In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched S
 
 **In 2021, we're chartered a train, the [Hacker Zephyr](https://zephyr.hackclub.com), across America.**
 
+<img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />
+
 We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
 
 Onboard, we hosted the world's longest hackathon on land: 3,502 miles long.
