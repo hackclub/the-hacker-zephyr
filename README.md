@@ -2,7 +2,7 @@
 
 This repository contains the open sourced planning documents, finances, and code behind [The Hacker Zephyr](https://zephyr.hackclub.com), the longest hackathon to ever happen on land (3,520 miles).
 
-## Index of Files
+## 🗃 Index of Files
 
 | File | Description  |
 |--|--|
@@ -114,7 +114,11 @@ This repository contains the open sourced planning documents, finances, and code
 | [software.md](/zephyrnet/software.md) | Brainstorm into the software used |
 | [tp_link_config.md](/zephyrnet/tp_link_config.md) | Config file for the tp-link ethernet switches |
 
-## Associated Repositories
+## 💵 Finances
+
+The finances for the Hacker Zephyr have been open sourced [here](http://bank.hackclub.com/train) through Hack Club Bank's [transparency mode](https://twitter.com/hackclub/status/1262471150963130374).
+
+## 💻 Associated Code Repositories
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
 - [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
