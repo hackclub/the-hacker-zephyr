@@ -2,7 +2,7 @@
 
 This repository contains the open sourced planning documents, finances, and code behind [The Hacker Zephyr](https://zephyr.hackclub.com), the longest hackathon to ever happen on land (3,520 miles).
 
-## Files Index
+## Index of Files
 
 | File | Description  |
 |--|--|
@@ -107,6 +107,12 @@ This repository contains the open sourced planning documents, finances, and code
 | [photos_from_steve_9.jpg](/superdome_and_sleeper_cars/photos_from_steve_9.jpg) | |
 | [photos_from_steve_10.jpg](/superdome_and_sleeper_cars/photos_from_steve_10.jpg) | |
 | [train_questions.md](/superdome_and_sleeper_cars/train_questions.md) | Notes from a call with the owner of our private charter cars |
+| **`/zephyrnet`** |  |
+| [deployments.md](/zephyrnet/deployments.md) | How deployments worked on the ZephyrNet |
+| [hardware_brainstorm_w_chaleb.md](/zephyrnet/hardware_brainstorm_w_chaleb.md) | Looking into what hardware to buy |
+| [introduction.md](/zephyrnet/introduction.md) | Introduction message |
+| [software.md](/zephyrnet/software.md) | Brainstorm into the software used |
+| [tp_link_config.md](/zephyrnet/tp_link_config.md) | Config file for the tp-link ethernet switches |
 
 ## Associated Repositories
 
