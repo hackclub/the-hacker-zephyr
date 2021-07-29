@@ -12,7 +12,13 @@ The server's components themselves can be found in
 
 We started off by evaluating what we wanted out of a deployment flow & out of the Internet itself. ZephyrNET's goal was to be as editable as possible—giving everyone sudo access meant that you'd be able to go anywhere on the Ubuntu VM (even other hackers' home directories!), or crash the server itself (thanks to @willdoescode for doing so in the first 3 hours).
 
-Every project hosted on the ZephyrNET needed to be editable by everyone else; not just because it enables a greater degree of collaboration, but because it means that high-quality contributions are the *norm*. The deploy flow that we built needed to allow for centralized repositories—everything should be able to be hosted in a single place or symlinked to it.
+Every project hosted on the ZephyrNET needed to be editable by everyone else; not just because it enables a greater degree of collaboration, but because it means that high-quality contributions are the *norm*. The deploy flow that we built needed to allow for centralized repositories—everything should be able to be hosted in a single place or symlinked to it. Every deploy needed have a `.zephyr` domain on the train, for easy access
+
+We settled on a directory-based deployment setup, where creating a folder in `/opt/zephyrnet` was all that you needed to get started programming. You can find the full flows that were sketched out in [deployments.md](deployments.md). In essence, deployments were split up into two different types: static and dynamic deployments.
+
+Static deployments linked a `.zephyr` domain to static files—create `x.zephyr` in `/opt/zephyrnet`, drop an `index.html` into it, and `x.zephyr` is instantly live, zero configuration needed.
+
+Dynamic deployments linked some form of server that exposes a port (like an Express server) to a `.zephyr` domain. Create a `.zephyr` folder in the Zephyrnet directory, create an `entrypoint.sh` file (which holds a script for setup; think `npm start` and so forth) and/or `build.sh` (holds a script for building )
 
 ## Implementation
 
