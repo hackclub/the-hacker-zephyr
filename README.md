@@ -1,10 +1,8 @@
-# The Hacker Zephyr 🚂
+# 🚂 The Hacker Zephyr 
 
 This repository contains the open sourced planning documents, finances, and code behind [The Hacker Zephyr](https://zephyr.hackclub.com), the longest hackathon to ever happen on land (3,520 miles).
 
-## Index of files in this repository
-
-_Link to files in this repo from here._
+## Files Index
 
 | File | Description  |
 |--|--|
@@ -48,7 +46,12 @@ _Link to files in this repo from here._
 | [5.png](/design_and_assets/melody's_amazing_train_explainer/5.png) | |
 | [6.png](/design_and_assets/melody's_amazing_train_explainer/6.png) | Last screenshot of messages |
 | **`/design_and_assets/monument_valley`** |  |
-| TBC |  |
+| [blender_screenshot_1.png](/design_and_assets/monument_valley/blender_screenshot_1.png) | Screenshot of the Blender process |
+| [blender_screenshot_2.png](/design_and_assets/monument_valley/blender_screenshot_2.png) |  |
+| [colors.png](/design_and_assets/monument_valley/colors.png) | Sketch with colours used  |
+| [monument_valley.blend](/design_and_assets/monument_valley/monument_valley.blend) | The artwork's blender file |
+| [render.png](/design_and_assets/monument_valley/render.png) | Rendered version |
+| [sketch.png](/design_and_assets/monument_valley/sketch.png) | Draft sketch |
 
 ## Associated Repositories
 
