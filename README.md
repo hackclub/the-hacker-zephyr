@@ -95,6 +95,18 @@ This repository contains the open sourced planning documents, finances, and code
 | [2021-06-29_call_with_steve.md](/meeting_notes/2021-06-29_call_with_steve.md) | More info about trains |
 | [2021-06-29_unsupervised_time.md](/meeting_notes/2021-06-29_unsupervised_time.md) | |
 | [2021-07-02_open_community_call.md](/meeting_notes/2021-07-02_open_community_call.md) | Addressing questions/concerns from community members about Zephyr |
+| **`/superdome_and_sleeper_cars`** |  |
+| [photos_from_steve_1.jpg](/superdome_and_sleeper_cars/photos_from_steve_1.jpg) | The first of many photos from Steve of the train |
+| [photos_from_steve_2.jpg](/superdome_and_sleeper_cars/photos_from_steve_2.jpg) | |
+| [photos_from_steve_3.jpg](/superdome_and_sleeper_cars/photos_from_steve_3.jpg) | |
+| [photos_from_steve_4.jpg](/superdome_and_sleeper_cars/photos_from_steve_4.jpg) | |
+| [photos_from_steve_5.jpg](/superdome_and_sleeper_cars/photos_from_steve_5.jpg) | |
+| [photos_from_steve_6.jpg](/superdome_and_sleeper_cars/photos_from_steve_6.jpg) | |
+| [photos_from_steve_7.jpg](/superdome_and_sleeper_cars/photos_from_steve_7.jpg) | |
+| [photos_from_steve_8.jpg](/superdome_and_sleeper_cars/photos_from_steve_8.jpg) | |
+| [photos_from_steve_9.jpg](/superdome_and_sleeper_cars/photos_from_steve_9.jpg) | |
+| [photos_from_steve_10.jpg](/superdome_and_sleeper_cars/photos_from_steve_10.jpg) | |
+| [train_questions.md](/superdome_and_sleeper_cars/train_questions.md) | Notes from a call with the owner of our private charter cars |
 
 ## Associated Repositories
 
