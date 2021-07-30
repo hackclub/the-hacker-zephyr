@@ -18,7 +18,7 @@ We settled on a directory-based deployment setup, where creating a folder in `/o
 
 Static deployments linked a `.zephyr` domain to static files—create `x.zephyr` in `/opt/zephyrnet`, drop an `index.html` into it, and `x.zephyr` is instantly live, zero configuration needed.
 
-Dynamic deployments linked some form of server that exposes a port (like an Express server) to a `.zephyr` domain. Create a `.zephyr` folder in the Zephyrnet directory, create an `entrypoint.sh` file (which holds a script for setup; think `npm start` and so forth) and/or `build.sh` (holds a script for building )
+Dynamic deployments linked some form of server that exposes a port (like an Express server) to a `.zephyr` domain. Create a `.zephyr` folder in the Zephyrnet directory, create an `entrypoint.sh` file (which holds a script for setup; think `npm start` and so forth) and/or `build.sh` (holds a script for building the server; consider `next build`), and run `git add . && git commit -m '<message>' && git push deploy master` to deploy a repository to be instantly live on ZephyrNET.
 
 ## Implementation
 
