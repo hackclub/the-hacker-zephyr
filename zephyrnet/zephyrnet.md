@@ -22,4 +22,16 @@ Dynamic deployments linked some form of server that exposes a port (like an Expr
 
 ## Implementation
 
+The deploy flow itself *seemed* fairly sound in theory (we'll get to some of the issues a bit later), and built upon already-proven techniques for deployment. Implementing it was another struggle, though—building great developer tools is an art, and two weeks to build a scalable PaaS (platform-as-a-service) is a time crunch in and of itself.
+
+We started off by creating a small script using `inotifywait` to watch for new folder creations in `/opt/zephyrnet` (you can use `-e` to filter through events), which ran a Node script to set up Git and added a simple README (that held deployment strategies; you can see the file at deployment_readme.md) to the repository. Every dynamic repository had Git set up in it, for easier deployments from anywhere.
+
+There were two key files that we were watching for (because we needed to see the first level of the source directories, we had to do a recursive search): `entrypoint.sh` and `index.html`. If an `index.html` file was created, the only thing that had to be done was create an NGINX configuration file with a `try_files` clause in a virtual host for the given domain.
+
+If an `entrypoint.sh` file was created and pushed to the `deploy` remote (because all Git repositories are stateless and act as their own servers, hackers could push to a separate repository in `/opt/zephyr/watcher/repos`—you can still find the runtime files there!), a port would be allocated through `porter.js` (which writes a domain to a randomly named file in `/opt/zephyr/watcher/ports`) and an NGINX configuration with a `proxy_pass` to the port running locally. To run the server, a `systemd` configuration is also generated, with a `bash /path/to/entrypoint.sh` located within. Instead of trying to do manual port allocations, we supplied a PORT variable in the environment (for something like Node, this could be accessed using `process.env.PORT`).
+
+All deployments were done on the `git` user for isolation, and all `systemctl` services needed to be run after `su`ing or `ssh`ing into it.
+
+The Commie VM (the virtual machine where all operations took place) had an instance of PowerDNS running on port 9191, which is what we used (along with dns_masq) to create custom TLDs
+
 ## Problems
