@@ -8,7 +8,7 @@ There were two large components to the ZephyrNET: the core hardware, and the sof
 
 {{{ FIXME: add more good vibez etc here. i'm not crying you're crying }}}
 
-with love,
+with love,  
 \- @zfogg, @rishiosaur, msw
 
 
