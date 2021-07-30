@@ -4,12 +4,12 @@ in this directory, you'll find the planning docs for the ZephyrNET. this include
 
 the idea of the hackathon was: because we're on a train, we won't have internet. so let's make our own `intranet`! and when we're done, we'll bring it back to HQ and put it online in read-only mode (or something). this will act as a sort of monument to the event.
 
-TODO: talk about the deploy stuff here. the DNS stuff should go here somewhere as well.
+There were two large components to the ZephyrNET: the core hardware, and the software platform that all 500 projects could be built and deployed on top of. You can find @zfogg's notes on hardware below, and @rishiosaur's notes on deployments in [zephyrnet.md](zephyrnet.md).
 
 {{{ FIXME: add more good vibez etc here. i'm not crying you're crying }}}
 
 with love,
-- @zfogg, rishi, msw
+- @zfogg, @rishiosaur, msw
 
 
 ## ZephyrNET Hardware
