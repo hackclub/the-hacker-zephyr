@@ -62,6 +62,8 @@ Ideation / coming up with the idea
 
 Securing the train (maybe we can share some of the emails we sent and meetings we had?)
 
+The announcement (details around the Slack ticketing system and screenshots from the call we had, including Tom's puzzle)
+
 ZephyrNET / hackathon purpose (and the why behind it. why not just a normal hackathon?)
 
 The schedule / itinerary (ex. the stuff on hack.af/zephyr)
