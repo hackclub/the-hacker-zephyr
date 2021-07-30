@@ -58,18 +58,12 @@ Should this be in narrative form? Or maybe just link all the files?
 
 ---
 
-Ideation
+Ideation / coming up with the idea
 
-Securing the train (maybe share emails?)
+Securing the train (maybe we can share some of the emails we sent and meetings we had?)
 
-Announcement
+ZephyrNET / hackathon purpose (and the why behind it. why not just a normal hackathon?)
 
-Invitation process - The why behind it and the execution of it itself
-
-ZephyrNET / Hackathon purpose (What we wanted to accomplish / what we didn't want to happen)
-
-Day-of schedule
-
-Funding
+The schedule / itinerary (ex. the stuff on hack.af/zephyr)
 
 Finances
