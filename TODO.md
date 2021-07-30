@@ -7,7 +7,7 @@ To-do for wrap-up more generally:
 - [ ] Everyone on team gets all their reimbursements in
 
   - [x] Zach Latta
-  - [ ] Max
+  - [x] Max
   - [ ] Zach Fogg
   - [ ] Christina
   - [ ] Tina
