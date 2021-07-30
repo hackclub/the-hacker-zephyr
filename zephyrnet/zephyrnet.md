@@ -4,9 +4,6 @@ The core idea behind Zephyr was to run a hackathon on a train. Hackathons exist 
 
 All of this meant that hackers onboard the train would have to build the Internet by themselves—without NPM, PyPi, Vercel, Heroku, DigitalOcean, or anything else that developers usually take for granted. For the organizing team, however, it meant that we needed to provide an efficient way for students to deploy their ideas: building the Internet means actually, well, building it.
 
-## Server
-
-The server's components themselves can be found in 
 
 ## Ideas
 
