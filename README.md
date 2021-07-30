@@ -25,7 +25,7 @@ This repository contains the open sourced [planning documents](#-planning-docume
 
 ## 🗃 Planning Documents
 
-Our planning docs are organizzed by topic into the following directories:
+Our planning docs are organized by topic into the following directories:
 
 | File                                                                                          | Description                                                                    |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
