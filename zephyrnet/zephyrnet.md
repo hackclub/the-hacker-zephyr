@@ -35,3 +35,7 @@ All deployments were done on the `git` user for isolation, and all `systemctl` s
 The Commie VM (the virtual machine where all operations took place) had an instance of PowerDNS running on port 9191, which is what we used (along with dns_masq) to create custom TLDs
 
 ## Problems
+
+Like many things in programming, things that work in theory don't always function in practice. Although the core deploy flow seemed sustainable (we battle-tested it by creating 50 Node servers in a loop, and it reacted well), there were some key flaws that we didn't have time to test out before the train:
+
+- SSH is hard. The deploy flow worked by monitoring specific folder creation *without git*, and the lack of NPM or the Internet onboard the server motivated others to use tools like `scp` or `rsync` to create folders locally (using their machines' package caches), which broke Git flows because of their `.git` folder creation
