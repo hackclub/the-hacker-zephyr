@@ -42,6 +42,7 @@ Zach:
 - Everyone currently on the Zephyr filled out the interest form
 
 Mukul: It might have been good to be more upfront and do a better job of communicating that to help people understand your rationale
+
 Zach: I agree we should have been clear on that from the get go, but it was a decision made later in the invitation process which was somewhat overshadowed by other things that needed to be handled
 
 --- 
