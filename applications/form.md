@@ -74,8 +74,8 @@ For any questions, shoot an email to zephyr@hackclub.com. 💖🚃💻💨
 
 ### What do you see when you look at this image? *
 
-[https://hack.af/rorschach](https://hack.af/rorschach) — Don't overthink this. This won't be used to determine your eligibility. What's the first thing(s) that comes to mind?
+> [https://hack.af/rorschach](https://hack.af/rorschach) — Don't overthink this. This won't be used to determine your eligibility. What's the first thing(s) that comes to mind?
 
 ### Application Record ID *
 
-Now now, don't touch this. Please I beg you. It performs some sort of dark magic only my boss can understand.
+> Now now, don't touch this. Please I beg you. It performs some sort of dark magic only my boss can understand.
