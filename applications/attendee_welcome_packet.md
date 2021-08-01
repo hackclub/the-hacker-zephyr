@@ -197,7 +197,7 @@ Here's what NOT to bring:
 
 - Excess spending money. We'll be providing cash in the cities we stop in. Emergency funds are okay, but shouldn't be used to make regular purchases at our stops. Seethe expenses section for more.
 - Illegal items. Duh.
-- An attitude that breaks our[Code of Conduct](https://hackclub.com/conduct/).
+- An attitude that breaks our [Code of Conduct](https://hackclub.com/conduct/).
 - Angular.js ;)
 
 ---
