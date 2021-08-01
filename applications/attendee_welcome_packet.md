@@ -124,54 +124,14 @@ A: Feel free to contact the Zephyr staff at zephyr@hackclub.com or dm us on Slac
 
 ## The Train Team
 
-| ![](RackMultipart20210729-4-o7xl2z_html_1f29576f9c864c4d.jpg) | Zach Latta | Founder/Executive Director, Hack Clubzach@hackclub.com
-
- |                                                               |
- | ------------------------------------------------------------- | ----------------- | ------------------------------------------- |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_13033e2ff7a9d936.jpg) | Christina Asquith | COO, Hack Clubchristina@hackclub.com        |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_bf94f7bd6d60835c.jpg) | Max Wofford       | Engineering/Operations Leadmax@hackclub.com |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_ad69379584729f1b.jpg) | Matthew Stanciu   | Clubs Leadmatthew@hackclub.com              |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_351a9bf7c11cec9a.png) | Leo McElroy       | New Clubs Leadleo@hackclub.com              |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_833ed9a84d782ec6.jpg) | Zach Fogg         | Community Lead zfogg@hackclub.com           |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_90414c8a238d379.png)  | Woody Keppel      | Hacker Zephyr Tour Conductor                |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- |                                                               |
- | ![](RackMultipart20210729-4-o7xl2z_html_47a702afe99cc832.png) | Rebecca Shapass   | Documentary Filmmaker                       |
- |                                                               |
-
-![](RackMultipart20210729-4-o7xl2z_html_33c0f57c5c3beb09.png)
+| Zach Latta        | Founder/Executive Director, Hack Club zach@hackclub.com |
+| Christina Asquith | COO, Hack Club christina@hackclub.com                   |
+| Max Wofford       | Engineering/Operations Lead max@hackclub.com            |
+| Matthew Stanciu   | Clubs Lead matthew@hackclub.com                         |
+| Leo McElroy       | New Clubs Lead leo@hackclub.com                         |
+| Zach Fogg         | Community Lead zfogg@hackclub.com                       |
+| Woody Keppel      | Hacker Zephyr Tour Conductor                            |
+| Rebecca Shapass   | Documentary Filmmaker                                   |
 
 ---
 
