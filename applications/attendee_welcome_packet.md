@@ -278,16 +278,9 @@ Thank you once again for joining us on this magical adventure. Here are the next
 
 Dedicated point of contact in Vermont for parents and Hack Clubbers:
 
-| ![](RackMultipart20210729-4-o7xl2z_html_b3741e4342bf8034.jpg) | Tina Soriano | Assistanttina@hackclub.com
- |     |
- | --- |  |  |
-
-Secondary point of contact in Vermont in case of emergencies:
-
-| ![](RackMultipart20210729-4-o7xl2z_html_eb57fb4457d10eb3.png) | Melanie Smith | Bank Operations Leadmelanie@hackclub.com
-
- |     |
- | --- |  |  |
+| Tina Soriano  | Assistant tina@hackclub.com               |
+|---------------|-------------------------------------------|
+| Melanie Smith | Bank Operations Lead melanie@hackclub.com |
 
 ---
 
