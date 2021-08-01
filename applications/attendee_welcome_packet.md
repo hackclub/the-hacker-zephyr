@@ -280,7 +280,11 @@ Dedicated point of contact in Vermont for parents and Hack Clubbers:
 
 | Tina Soriano  | Assistant tina@hackclub.com               |
 |---------------|-------------------------------------------|
+
+Secondary point of contact in Vermont in case of emergencies:
+
 | Melanie Smith | Bank Operations Lead melanie@hackclub.com |
+|---------------|-------------------------------------------|
 
 ---
 
