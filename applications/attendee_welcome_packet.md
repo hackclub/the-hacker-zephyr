@@ -125,6 +125,7 @@ A: Feel free to contact the Zephyr staff at zephyr@hackclub.com or dm us on Slac
 ## The Train Team
 
 | Zach Latta        | Founder/Executive Director, Hack Club zach@hackclub.com |
+|-------------------|---------------------------------------------------------|
 | Christina Asquith | COO, Hack Club christina@hackclub.com                   |
 | Max Wofford       | Engineering/Operations Lead max@hackclub.com            |
 | Matthew Stanciu   | Clubs Lead matthew@hackclub.com                         |
