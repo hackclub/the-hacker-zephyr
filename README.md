@@ -26,7 +26,13 @@ Building excitement for the meeting was one thing, we also needed to pull off a 
 
 ### ZephyrNET & the Hackathon
 
-_TBC_
+Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except while passing through towns. 
+
+The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet)
+
+We looked at our favorite hackathons and tried to pull a bit from each (each wonderful in [their](https://ldjam.com/) [own](http://www.stupidhackathon.com/) [way](https://www.codeday.org/)). 
+
+The hackathon's theme was to build a time capsule– too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline). The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md).
 
 ### Building an Adventure of a Lifetime
 
