@@ -18,7 +18,11 @@ _TBC_
 
 ### The Launch & Applications
 
-_TBC_
+Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) created using [MapSCII](https://github.com/rastapasta/mapscii) & [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms)!
+
+The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a ticketing system, Hack Clubbers could react to the Slack announcement with the :admission_tickets: emoji and would be sent there very own digital ticket to the meeting. These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. This system was built using Next.js & it's API routes, to generate each image we used headless Chromium to render an HTML page and take a screenshot of the result which then would be cached. 
+
+Building excitement for the meeting was one thing, we also needed to pull off a great meeting that would convey how excited we all were. 
 
 ### ZephyrNET & the Hackathon
 
@@ -28,9 +32,15 @@ _TBC_
 
 _TBC_
 
+### The Trip
+
+_TBC_
+
+<!-- 
+
 This repo houses everything from the trip. Planning documents, financials, and GitHub repos.
 
-<!-- We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
+We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
 
 The challenge of the hackathon: if we can't have access to the internet, why not build our own?
 
