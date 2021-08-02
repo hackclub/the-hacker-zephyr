@@ -18,7 +18,7 @@ _TBC_
 
 ### The Launch & Applications
 
-Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) created using [MapSCII](https://github.com/rastapasta/mapscii) & [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms)!
+Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms)!
 
 The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a ticketing system, Hack Clubbers could react to the Slack announcement with the :admission_tickets: emoji and would be sent there very own digital ticket to the meeting. These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. This system was built using Next.js & it's API routes, to generate each image we used headless Chromium to render an HTML page and take a screenshot of the result which then would be cached. 
 
