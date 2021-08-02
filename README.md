@@ -20,9 +20,15 @@ _TBC_
 
 Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms)!
 
-The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a ticketing system, Hack Clubbers could react to the Slack announcement with the :admission_tickets: emoji and would be sent there very own digital ticket to the meeting. These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. This system was built using Next.js & it's API routes, to generate each image we used headless Chromium to render an HTML page and take a screenshot of the result which then would be cached. 
+The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a ticketing system, Hack Clubbers could react to the Slack announcement with the 🎟 emoji and would be sent there very own digital ticket to the meeting. These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. 
 
-Building excitement for the meeting was one thing, we also needed to pull off a great meeting that would convey how excited we all were. 
+Building excitement for the meeting was one thing, we also needed to pull off a great meeting that would convey how excited we all were. We planned to start with some old videos of trains with "American" music, then transition to a short introduction statement which would be followed by our main trailer video. Zach & Tom would both then both talk about the trip and it's goals, once they were finished we opened the floor for questions from hackers. You can watch the full call here.
+
+Now the secret was out we launched our website (code) with all the information, a parent's guide to the Zephyr and a registration of interest form. Being on a train, we were constrained by the capacity of the train so we could only select a group of those who registered interest. During that process we would ourselves different questions each day such as: "Who are some awesome new club leaders who will get a ton out of this?" and "Who are some people who have been deep into Hack Club for a long time and will both get a lot out of this, but will also give a lot to other people on board?". 
+
+Those invited were called to receive the news and would then receive an email with more details and a more detailed guide. This made the process feel really personal. They'd have seven days for both them and their parents to sign a Memorandum of Understanding to confirm their participation. 
+
+Following this we'd invite them to a private channel, coordinate with them on travel arrangements, have them or their parents sign a liability release waiver and for those under-18 have their parents sign the "Freedom Waiver". After all this and packing, they were ready to enter the Hackerland in Vermont.
 
 ### ZephyrNET & the Hackathon
 
