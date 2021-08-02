@@ -9,3 +9,5 @@ Most of these files were too big to upload with Git LFS (on GitHub's free plan).
 https://www.youtube.com/watch?v=Jb54okOILUs&list=PLqVc4DLanb7CdYlEEHgvjLfJSxOLXwHc8
 
 ## Tom's Hints
+
+Tom even put out [his](https://twitter.com/mojombo/status/1398055532938727427) [own](https://twitter.com/mojombo/status/1398391830761246723) clues.
