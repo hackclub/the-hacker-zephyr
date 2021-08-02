@@ -8,6 +8,26 @@
 
 _The Zephyr passing Rocky Flats, Colorado._
 
+### The Idea
+
+_TBC_
+
+### Securing the Train
+
+_TBC_
+
+### The Launch & Applications
+
+_TBC_
+
+### ZephyrNET & the Hackathon
+
+_TBC_
+
+### Building an Adventure of a Lifetime
+
+_TBC_
+
 This repo houses everything from the trip. Planning documents, financials, and GitHub repos.
 
 <!-- We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
@@ -17,6 +37,8 @@ The challenge of the hackathon: if we can't have access to the internet, why not
 We purchased and lugged a 116lb server with 192 GB of RAM across the country, and gave everyone onboard full root access to it. The goal was to make 500 contributions to the ZephyrNET before arriving in LA, or else some of the data would be deleted.
 
 This repository contains the open sourced [planning documents](#-planning-documents), [finances](#-finances), and [code](#-associated-code-repositories) behind The Hacker Zephyr. If you find an issue with a document or would like to request more information about the trip, please file an issue [here](https://github.com/hackclub/the-hacker-zephyr/issues/new). -->
+
+
 
 ## 🗃 Planning Documents
 
