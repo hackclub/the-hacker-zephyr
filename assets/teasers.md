@@ -1,6 +1,6 @@
 # Teasers
 
-To hype up we 
+Eo build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May, we made a ton of cryptic puzzles!
 
 ## Hints on the @hackclub Twitter
 
