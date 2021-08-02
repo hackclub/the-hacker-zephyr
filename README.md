@@ -8,10 +8,6 @@
 
 _The Zephyr passing Rocky Flats, Colorado._
 
-### The Idea
-
-_TBC_
-
 ### Securing the Train
 
 _TBC_
