@@ -52,7 +52,6 @@ _TBC_
 
 This repo houses everything from the trip. Planning documents, financials, and GitHub repos.
 
-<<<<<<< HEAD
 We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
 
 The challenge of the hackathon: if we can't have access to the internet, why not build our own?
@@ -61,10 +60,6 @@ We purchased and lugged a 116lb server with 192 GB of RAM across the country, an
 
 This repository contains the open sourced [planning documents](#-planning-documents), [finances](#-finances), and [code](#-associated-code-repositories) behind The Hacker Zephyr. If you find an issue with a document or would like to request more information about the trip, please file an issue [here](https://github.com/hackclub/the-hacker-zephyr/issues/new). -->
 
-
-
-=======
->>>>>>> 51f9352 (Remove narrative section from README)
 ## 🗃 Planning Documents
 
 Our planning docs are organized by topic into the following directories:
