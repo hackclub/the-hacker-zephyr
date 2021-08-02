@@ -6,8 +6,6 @@ the idea of the hackathon was: because we're on a train, we won't have internet.
 
 There were two large components to the ZephyrNET: the core hardware, and the software platform that all 500 projects could be built and deployed on top of. You can find @zfogg's notes on hardware below, and @rishiosaur's notes on deployments in [zephyrnet.md](zephyrnet.md).
 
-{{{ FIXME: add more good vibez etc here. i'm not crying you're crying }}}
-
 with love,  
 \- @zfogg, @rishiosaur, msw
 
