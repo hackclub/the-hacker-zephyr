@@ -26,9 +26,7 @@ Building excitement for the meeting was one thing, we also needed to pull off a 
 
 Now the secret was out we launched our website (code) with all the information, a parent's guide to the Zephyr and a registration of interest form. Being on a train, we were constrained by the capacity of the train so we could only select a group of those who registered interest. During that process we would ourselves different questions each day such as: "Who are some awesome new club leaders who will get a ton out of this?" and "Who are some people who have been deep into Hack Club for a long time and will both get a lot out of this, but will also give a lot to other people on board?". 
 
-Those invited were called to receive the news and would then receive an email with more details and a more detailed guide. This made the process feel really personal. They'd have seven days for both them and their parents to sign a Memorandum of Understanding to confirm their participation. 
-
-Following this we'd invite them to a private channel, coordinate with them on travel arrangements, have them or their parents sign a liability release waiver and for those under-18 have their parents sign the "Freedom Waiver". After all this and packing, they were ready to enter the Hackerland in Vermont.
+Those invited were called to receive the news and would then receive an email with more details and a more detailed guide. This made the process feel really personal. They'd have seven days for both them and their parents to sign a Memorandum of Understanding to confirm their participation. Following this we'd invite them to a private channel, coordinate with them on travel arrangements, have them or their parents sign a liability release waiver and for those under-18 have their parents sign the "Freedom Waiver". After all this and packing, they were ready to enter the Hackerland in Vermont.
 
 ### ZephyrNET & the Hackathon
 
