@@ -30,11 +30,11 @@ Following this we'd invite them to a private channel, coordinate with them on tr
 
 Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except while passing through towns. 
 
-The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet)
+The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet/).
 
-We looked at our favorite hackathons and tried to pull a bit from each (each wonderful in [their](https://ldjam.com/) [own](http://www.stupidhackathon.com/) [way](https://www.codeday.org/)). 
+We looked at our favorite hackathons (each wonderful in [their](https://ldjam.com/) [own](http://www.stupidhackathon.com/) [way](https://www.codeday.org/)) and tried to pull a bit from each when coming up with [the focus of the event](./notes/hackerland.md). The Zephyr would be an anti-hackathon. It'd take the experience back to the highs of the 2014 college hackathon experience.
 
-The hackathon's theme was to build a time capsule– too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline). The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md).
+The hackathon's theme was to build a time capsule– too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline). The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md) (an opt-in version of the original idea to `rm -rf` the whole server).
 
 ### Building an Adventure of a Lifetime
 
@@ -48,7 +48,6 @@ _TBC_
 
 This repo houses everything from the trip. Planning documents, financials, and GitHub repos.
 
-<<<<<<< HEAD
 We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
 
 The challenge of the hackathon: if we can't have access to the internet, why not build our own?
@@ -57,10 +56,6 @@ We purchased and lugged a 116lb server with 192 GB of RAM across the country, an
 
 This repository contains the open sourced [planning documents](#-planning-documents), [finances](#-finances), and [code](#-associated-code-repositories) behind The Hacker Zephyr. If you find an issue with a document or would like to request more information about the trip, please file an issue [here](https://github.com/hackclub/the-hacker-zephyr/issues/new). -->
 
-
-
-=======
->>>>>>> 51f9352 (Remove narrative section from README)
 ## 🗃 Planning Documents
 
 Our planning docs are organized by topic into the following directories:

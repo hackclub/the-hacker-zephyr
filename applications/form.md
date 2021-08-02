@@ -1,5 +1,7 @@
 _This is an export of the Airtable form used for registering interest. Below is a screenshot._
 
+![](./form_screenshot.png)
+
 # Hacker Zephyr – Register Your Interest
 
 ALL ABOARD!!!!! For ten days this summer, 42 Hack Clubbers will journey from East to West by train. From 🌲Vermont to ☀️Los Angeles, you'll code, build, write songs and make friends. 
