@@ -11,3 +11,5 @@ Together, we'll cross the Great Plains, wind through the Rocky Mountains, follow
 Registrations of interest are open now on the website and close **this Friday, at 11:59 PM Pacific**. 
 
 Even if you're not sure you can make it, please still consider registering interest - doing so is not a commitment.The first invites will start going out next Wednesday (June 9th), and will be sent over a 2 week period. Join us in [#zephyr](https://hackclub.slack.com/archives/C023JP4JQEM), [#zephyr-questions](https://hackclub.slack.com/archives/C0245M24X96), and consider sharing the parent packet with your folks: [https://hack.af/zephyr-parents](https://hack.af/zephyr-parents). When I did this trip for the first time 2 years ago, it was deeply meaningful and something I'll never forget. I hope you can make it.
+
+![](2021-06-02_slack_announcement_images/full.png)
