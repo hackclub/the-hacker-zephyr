@@ -7,9 +7,9 @@ All of this meant that hackers onboard the train would have to build the Interne
 
 ## Ideas
 
-We started off by evaluating what we wanted out of a deployment flow & out of the Internet itself. ZephyrNET's goal was to be as editable as possible—giving everyone sudo access meant that you'd be able to go anywhere on the Ubuntu VM (even other hackers' home directories!), or crash the server itself (thanks to @willdoescode for doing so in the first 3 hours).
+We started off by evaluating what we wanted out of a deployment flow & out of the Internet itself. ZephyrNET's goal was to be as editable as possible—giving everyone sudo access meant that you'd be able to go anywhere on the Ubuntu VM (even other hackers' home directories!), or crash the server itself (special thanks to @willdoescode for doing so in the first 3 hours).
 
-Every project hosted on the ZephyrNET needed to be editable by everyone else; not just because it enables a greater degree of collaboration, but because it means that high-quality contributions are the *norm*. The deploy flow that we built needed to allow for centralized repositories—everything should be able to be hosted in a single place or symlinked to it. Every deploy needed have a `.zephyr` domain on the train, for easy access
+Every project hosted on the ZephyrNET needed to be editable by everyone else; not just because it enables a greater degree of collaboration, but because it means that high-quality contributions are the *norm*. The deploy flow that we built needed to allow for centralized repositories—everything should be able to be hosted in a single place or symlinked to it. Every deploy needed had a `.zephyr` domain on the train, for easy access
 
 We settled on a directory-based deployment setup, where creating a folder in `/opt/zephyrnet` was all that you needed to get started programming. You can find the full flows that were sketched out in [deployments.md](deployments.md). In essence, deployments were split up into two different types: static and dynamic deployments.
 
