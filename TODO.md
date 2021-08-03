@@ -7,7 +7,7 @@ To-do for wrap-up more generally:
 - [ ] Everyone on team gets all their reimbursements in
 
   - [x] Zach Latta
-  - [ ] Max
+  - [x] Max
   - [ ] Zach Fogg
   - [ ] Christina
   - [ ] Tina
@@ -58,18 +58,14 @@ Should this be in narrative form? Or maybe just link all the files?
 
 ---
 
-Ideation
+Ideation / coming up with the idea
 
-Securing the train (maybe share emails?)
+Securing the train (maybe we can share some of the emails we sent and meetings we had?)
 
-Announcement
+The announcement (details around the Slack ticketing system and screenshots from the call we had, including Tom's puzzle)
 
-Invitation process - The why behind it and the execution of it itself
+ZephyrNET / hackathon purpose (and the why behind it. why not just a normal hackathon?)
 
-ZephyrNET / Hackathon purpose (What we wanted to accomplish / what we didn't want to happen)
-
-Day-of schedule
-
-Funding
+The schedule / itinerary (ex. the stuff on hack.af/zephyr)
 
 Finances

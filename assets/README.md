@@ -1,7 +1,10 @@
 # Assets 🎨
 
-- [teasers.md](teasers.md)
-- [train_valley](train_valley)
-- [train_starry_night](train_starry_night)
-- [train_nyc](train_nyc)
-- [sketches](sketches)
+|                                       |                                            |                                                                                                                                                                                                   |
+| ------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](./teasers/preview.jpg)            | [teasers](./teasers)                       | a series of teasers put out on Twitter leading up to the reveal of the Zephyr                                                                                                                     |
+| ![](./train_valley/preview.jpg)       | [train_valley](./train_valley)             | was the main image we used                                                                                                                                                                        |
+| ![](./train_starry_night/preview.jpg) | [train_starry_night](./train_starry_night) | is a scene we used for [our teasers](./teasers/README.md) on [Twitter](https://twitter.com/hackclub/status/1397562064651096066). It was originally made to be a parallaxed scene for our website. |
+| ![](./train_nyc/preview.jpg)          | [train_nyc](./train_nyc)                   | half-finished scene made for our website back when we planned to have an illustration for each leg of the trip. The layers of the image are parallaxed for scrolling.                             |
+| ![](./poster/preview.jpg)             | [poster](./poster)                         | the final incarnation of the site.                                                                                                                                                                |
+| ![](./sketches/stamps.png)            | [sketches](./sketches)                     | misc. sketches used when exploring                                                                                                                                                                |

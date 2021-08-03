@@ -62,7 +62,7 @@ The COVID-positive student:
     
 -   Hotel to be alerted and any instructions provided by them to be followed.
     
--   Students' health to be monitored, if needed an ambulance to be called and they will be moved to hospital care.
+-   Student's health to be monitored, if needed an ambulance to be called and they will be moved to hospital care.
     
 If more students test positive:
 
@@ -70,7 +70,7 @@ If more students test positive:
     
 Plan going forward:
 
--   All negative passengers may continue the journey. Unless fifthteen passengers test positive, in which case the viability of the trip should be carefully assessed.
+-   All negative passengers may continue the journey. Unless fifteen passengers test positive, in which case the viability of the trip should be carefully assessed.
     
 -   Positive students will have their hotel room bookings extended.
     

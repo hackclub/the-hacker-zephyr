@@ -1,6 +1,8 @@
-# Hacker Zephyr – Register Your Interest
+_This is an export of the Airtable form used for registering interest. Below is a screenshot._
 
-> This is an archive of the registration form
+![](./form_screenshot.png)
+
+# Hacker Zephyr – Register Your Interest
 
 ALL ABOARD!!!!! For ten days this summer, 42 Hack Clubbers will journey from East to West by train. From 🌲Vermont to ☀️Los Angeles, you'll code, build, write songs and make friends. 
 
@@ -74,8 +76,8 @@ For any questions, shoot an email to zephyr@hackclub.com. 💖🚃💻💨
 
 ### What do you see when you look at this image? *
 
-[https://hack.af/rorschach](https://hack.af/rorschach) — Don't overthink this. This won't be used to determine your eligibility. What's the first thing(s) that comes to mind?
+> [https://hack.af/rorschach](https://hack.af/rorschach) — Don't overthink this. This won't be used to determine your eligibility. What's the first thing(s) that comes to mind?
 
 ### Application Record ID *
 
-Now now, don't touch this. Please I beg you. It performs some sort of dark magic only my boss can understand.
+> Now now, don't touch this. Please I beg you. It performs some sort of dark magic only my boss can understand.

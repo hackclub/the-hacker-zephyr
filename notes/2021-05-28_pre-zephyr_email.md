@@ -25,5 +25,3 @@ Hey everyone, you’re getting this because you’re on the Hack Club Slack.
 I’ve got some special news about Hack Club’s summer plans & wanted to invite you to our call, Saturday (6 PM Eastern / 3 PM Pacific) where we’ll announce it. Anyone in the Slack is free to join the call, but the news will only directly impact those of you **who can be in the US in the last 2 weeks of July**.
 
 I can’t give away anything else until the call, but I want to say we’ve at HQ have been dreaming of this moment for a long time now. At least in the US we’re starting to feel things shift back to normal — it’s the end of the end of the world.
-
-

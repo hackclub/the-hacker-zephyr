@@ -1,21 +1,54 @@
 # 🚂 The Hacker Zephyr 
 
-- [🗃 Planning Documents](#-planning-documents)
-- [💵 Finances](#-finances)
-- [💻 Associated Code Repositories](#-associated-code-repositories)
-- [☀️ Previous Work](#%EF%B8%8F-previous-work)
+[🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ Previous Work](#%EF%B8%8F-previous-work)
 
-**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).**
+**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).** This is the story of how we did it.
 
-_The Hacker Zephyr is Hack Club's 2021 [summer project](#previous-work)._
+[<img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />](https://youtu.be/7pvGNYPR9KQ)
 
-<img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />
+_The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
-_The Zephyr passing Rocky Flats, Colorado._
+<!-- ## Securing the Train
+
+_TBC_ -->
+
+## The Launch & Applications
+
+Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms-hints)!
+
+The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a [ticketing system](https://github.com/hackclub/all-aboard-tickets), Hack Clubbers could react to the Slack announcement with the 🎟 emoji and would be sent their very own [digital ticket to the meeting](https://camo.githubusercontent.com/d5802c680357ab439dac7fd86a46089aee8cc007341c1c37ebe79ad8df3b54bc/68747470733a2f2f636c6f75642d3578686f30663736622d6861636b2d636c75622d626f742e76657263656c2e6170702f307469636b65742d31302e706e67). These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. 
+
+Building excitement for the meeting was one thing, we also needed to pull off a great meeting that would convey how excited we all were. We planned to start with some [old videos of trains with "American" music](https://youtu.be/3pdemObt1kA), then transition to a short introduction statement which would be followed by our [main trailer video](https://www.youtube.com/watch?v=FfGRgc18mh0). Zach & Tom would both then both talk about the trip and it's goals, once they were finished we opened the floor for questions from hackers. You can watch the full call [here](https://www.youtube.com/watch?v=wQebTjTyF7M).
+
+Now the secret was out we launched our [website](https://zephyr.hackclub.com) ([code](https://github.com/hackclub/all-aboard)) with all the information, a [parent's guide to the Zephyr](applications/parent_guide.pdf) and a [registration of interest form](applications/form.md). Being on a train, we were constrained by the [capacity of the train](assets/melody's_amazing_train_explainer/transcript.md) so we could only select a group of those who registered interest. During that process we would ourselves different questions each day such as: "Who are some awesome new club leaders who will get a ton out of this?" and "Who are some people who have been deep into Hack Club for a long time and will both get a lot out of this, but will also give a lot to other people on board?". 
+
+Those invited were [called](applications/invite_call_script.md) to receive the news and would then receive an [email](applications/invite_email_template.md) and a more detailed [guide](applications/attendee_welcome_packet.pdf). This made the process feel really personal. They'd have seven days for both them and their parents to sign a [Memorandum of Understanding](applications/memorandum_of_understanding.pdf) to confirm their participation. 
+
+Following this we'd invite them to a private channel, coordinate with them on travel arrangements, have them or their parents sign a [liability release](applications/liability_release.pdf) and for those under-18 have their parents sign the ["Freedom Waiver"](applications/freedom_waiver.pdf). After all this and packing, they were ready to enter the [Hackerland](notes/2021-06-29_hackerland.md) in Vermont.
+
+## ZephyrNET & the Hackathon
+
+Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except while passing through towns. 
+
+The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet/).
+
+We looked at our favorite hackathons (each wonderful in [their](https://ldjam.com/) [own](http://www.stupidhackathon.com/) [way](https://www.codeday.org/)) and tried to pull a bit from each when coming up with [the focus of the event](./notes/hackerland.md). The Zephyr would be an anti-hackathon. It'd take the experience back to the highs of the 2014 college hackathon experience.
+
+The hackathon's theme was to build a time capsule– too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline). The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md) (an opt-in version of the original idea to `rm -rf` the whole server).
+
+<!-- ## Building an Adventure of a Lifetime
+
+_TBC_ -->
+
+<!-- ## The Trip
+
+_TBC_ -->
+
+<!-- 
 
 This repo houses everything from the trip. Planning documents, financials, and GitHub repos.
 
-<!-- We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
+We began at Hack Club HQ in Burlington, Vermont, travelled down south to New York City, west through Chicago, and crossed the Rockies on our way to San Francisco. From there, we followed the Pacific Ocean and finished at SpaceX in Los Angeles.
 
 The challenge of the hackathon: if we can't have access to the internet, why not build our own?
 
@@ -25,116 +58,15 @@ This repository contains the open sourced [planning documents](#-planning-docume
 
 ## 🗃 Planning Documents
 
-Our planning docs are organizzed by topic into the following directories:
+Our planning docs are organized by topic into the following directories:
 
-| File                                                                                          | Description                                                                    |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [/assets](/assets)                                                    | Sketches, logos, videos, etc. that we used to market the Zephyr |
-| [/logistics](/logistics) | Documentation on planning, scheduling, coordinating, and other details |
-| [/notes](/notes)                                                                            | Assorted notes from staff |
-| [/zephyrnet](/zephyrnet)                                                                    | Technical documentation / notes on the hardware & software that went into building the Zephyr's intranet |
-<!-- | [attendee_welcome_packet.pdf](attendee_welcome_packet.pdf)                                    | This was the welcome packet all attendees received when invited                |
-| [cash_stipends.csv](cash_stipends.csv)                                                        | Logs for the process of collecting the required cash, and how we handed it out |
-| [covid_safety_plan.md](covid_safety_plan.md)                                                  | This was the plan for handling extreme COVID-19 events                         |
-| [emails.md](emails.md)                                                                        | All emails sent out during the process                                         |
-| [freedom_waiver.pdf](freedom_waiver.pdf)                                                      | Form to indicate if passengers could have unsupervised time                    |
-| [form.md](form.md)                                                                            | A copy of the registration form's questions and text                           |
-| [hackerland.md](hackerland.md)                                                                | A brainstorm document focused on creating a Hackerland                         |
-| [invite_call_script.md](invite_call_script.md)                                                | A general run down of the content of a invite call                             |
-| [liability_release.pdf](liability_release.pdf)                                                | Required liability release                                                     |
-| [memorandum_of_understanding.pdf](memorandum_of_understanding.pdf)                            | Required to accept invite                                                      |
-| [packing_list.pdf](packing_list.pdf)                                                          |                                                                                |
-| [parent_guide.pdf](parent_guide.pdf)                                                          | To help convince parents about the Zephyr                                      |
-| [slack.md](slack.md)                                                                          | Slack announcements related to Zephyr                                          |
-| [timeline.md](timeline.md)                                                                    | The timeline for the journey                                                   |
-| [video_editorial_notes.md](video_editorial_notes.md)                                          | Discussions around documentary                                                 |
-| [webinar_notes.md](webinar_notes.md)                                                          | Notes from parents webinars hosted                                             |
-| **`/design_and_assets`**                                                                      |                                                                                |
-| _[/melody's_amazing_train_explainer](/design_and_assets/melody's_amazing_train_explainer)_    | An explanation of why the physical cap existed                                 |
-| _[/monument_valley](/design_and_assets/monument_valley)_                                      | Experiments in rendering a 3D landscape                                        |
-| _[/poster](/design_and_assets/poster)_                                                        | Iterations of the poster seen on the Zephyr homepage                           |
-| _[/sketches](/design_and_assets/sketches)_                                                    | Sketches made during the branding brainstorm                                   |
-| _[/teasers](/design_and_assets/teasers)_                                                      | Teasers made to build up hype for the Zephyr announcement call                 |
-| _[/train_nyc](/design_and_assets/train_nyc)_                                                  | NYC landscape artwork                                                          |
-| _[/train_starry_night](/design_and_assets/train_starry_night)_                                | A train in a starry night artwork                                              |
-| _[/train_valley](/design_and_assets/train_valley)_                                            | A train in a valley artwork                                                    |
-| [teasers.md](/design_and_assets/teasers.md)                                                   | Links to the teasers YouTube playlist                                          |
-| [zephyr_fonts.key](/design_and_assets/zephyr_fonts.key)                                       | Keynote file used to make headers for guides                                   |
-| [zephyr_fonts.pdf](/design_and_assets/zephyr_fonts.pdf)                                       | PDF version of the aforementioned file                                         |
-| **`/design_and_assets/melody's_amazing_train_explainer`**                                     |                                                                                |
-| [1.png](/design_and_assets/melody's_amazing_train_explainer/1.png)                            | First screenshot of messages                                                   |
-| [2.png](/design_and_assets/melody's_amazing_train_explainer/2.png)                            |                                                                                |
-| [3.png](/design_and_assets/melody's_amazing_train_explainer/3.png)                            |                                                                                |
-| [4.png](/design_and_assets/melody's_amazing_train_explainer/4.png)                            |                                                                                |
-| [5.png](/design_and_assets/melody's_amazing_train_explainer/5.png)                            |                                                                                |
-| [6.png](/design_and_assets/melody's_amazing_train_explainer/6.png)                            | Last screenshot of messages                                                    |
-| **`/design_and_assets/monument_valley`**                                                      |                                                                                |
-| [blender_screenshot_1.png](/design_and_assets/monument_valley/blender_screenshot_1.png)       | Screenshot of the Blender process                                              |
-| [blender_screenshot_2.png](/design_and_assets/monument_valley/blender_screenshot_2.png)       |                                                                                |
-| [colors.png](/design_and_assets/monument_valley/colors.png)                                   | Sketch with colours used                                                       |
-| [monument_valley.blend](/design_and_assets/monument_valley/monument_valley.blend)             | The artwork's blender file                                                     |
-| [render.png](/design_and_assets/monument_valley/render.png)                                   | Rendered version                                                               |
-| [sketch.png](/design_and_assets/monument_valley/sketch.png)                                   | Draft sketch                                                                   |
-| **`/design_and_assets/poster`**                                                               |                                                                                |
-| [format_1.png](/design_and_assets/poster/format_1.png)                                        | First iteration of the poster                                                  |
-| [format_2.png](/design_and_assets/poster/format_2.png)                                        |                                                                                |
-| [format_3.png](/design_and_assets/poster/format_3.png)                                        |                                                                                |
-| [format_4.png](/design_and_assets/poster/format_4.png)                                        |                                                                                |
-| [format_5.png](/design_and_assets/poster/format_5.png)                                        |                                                                                |
-| [format_6.png](/design_and_assets/poster/format_6.png)                                        |                                                                                |
-| [format_7_final.png](/design_and_assets/poster/format_7_final.png)                            | Final iteration of the poster                                                  |
-| [zephyr-poster.psd](/design_and_assets/poster/zephyr-poster.psd)                              | Photoshop file for the poster                                                  |
-| **`/design_and_assets/sketches`**                                                             |                                                                                |
-| [fonts.png](/design_and_assets/sketches/fonts.png)                                            | Hand drawn fonts                                                               |
-| [landscapes.png](/design_and_assets/sketches/landscapes.png)                                  | Landscape artwork planning                                                     |
-| [README.md](/design_and_assets/sketches/README.md)                                            | Has links to drawing timelapses                                                |
-| [stamps.png](/design_and_assets/sketches/stamps.png)                                          | Hacker Zephyr stamps                                                           |
-| **`/design_and_assets/train_nyc`**                                                            |                                                                                |
-| [train_nyc.png](/design_and_assets/train_nyc/train_nyc.png)                                   |                                                                                |
-| [train_nyc.psd](/design_and_assets/train_nyc/train_nyc.psd)                                   |                                                                                |
-| **`/design_and_assets/train_starry_night`**                                                   |                                                                                |
-| [train_starry_night.png](/design_and_assets/train_starry_night/train_starry_night.png)        |                                                                                |
-| [train_starry_night.psd](/design_and_assets/train_starry_night/train_starry_night.psd)        |                                                                                |
-| **`/design_and_assets/train_valley`**                                                         |                                                                                |
-| _[/announcement_cards](/design_and_assets/train_valley/announcement_cards)_                   | Transformed into three images for the Slack announcement                       |
-| [train_valley.png](/design_and_assets/train_valley/train_valley.png)                          |                                                                                |
-| [train_valley.psd](/design_and_assets/train_valley/train_valley.psd)                          |                                                                                |
-| **`/design_and_assets/train_valley/announcement_cards`**                                      |                                                                                |
-| [1.jpg](/design_and_assets/train_valley/announcement_cards/1.jpg)                             |                                                                                |
-| [2.jpg](/design_and_assets/train_valley/announcement_cards/2.jpg)                             |                                                                                |
-| [3.jpg](/design_and_assets/train_valley/announcement_cards/3.jpg)                             |                                                                                |
-| [full.png](/design_and_assets/train_valley/announcement_cards/full.png)                       | All three cards combined                                                       |
-| **`/notes`**                                                                                  |                                                                                |
-| [2021-05-05_call_with_amtrak.md](/notes/2021-05-05_call_with_amtrak.md)                       | Learning more about the train process                                          |
-| [2021-05-25_theme_brainstorm.md](/notes/2021-05-25_theme_brainstorm.md)                       | Early brainstorm focused on student experience                                 |
-| [2021-05-27_meeting_about_saturday_call.md](/notes/2021-05-27_meeting_about_saturday_call.md) | Planning for the announcement call                                             |
-| [2021-05-27_zephyr_manifesto.md](/notes/2021-05-27_zephyr_manifesto.md)                       | Originally written to go on the signup page at zephyr.hackclub.com             |
-| [2021-05-28_pre-zephyr_email.md](/notes/2021-05-28_pre-zephyr_email.md)                       | For Slack members                                                              |
-| [2021-06-02_the_thinking_on_gifts.md](/notes/2021-06-02_the_thinking_on_gifts.md)             | Unreleased Slack message clarifying gifts                                      |
-| [2021-06-03_international_travel.md](/notes/2021-06-03_international_travel.md)               | Research into how international students could travel                          |
-| [2021-06-16_freedom_waiver.md](/notes/2021-06-16_freedom_waiver.md)                           |                                                                                |
-| [2021-06-23_invites_have_gone_out.md](/notes/2021-06-23_invites_have_gone_out.md)             |                                                                                |
-| [2021-06-29_call_with_steve.md](/notes/2021-06-29_call_with_steve.md)                         | More info about trains                                                         |
-| [2021-06-29_unsupervised_time.md](/notes/2021-06-29_unsupervised_time.md)                     |                                                                                |
-| [2021-07-02_open_community_call.md](/notes/2021-07-02_open_community_call.md)                 | Addressing questions/concerns from community members about Zephyr              |
-| **`/superdome_and_sleeper_cars`**                                                             |                                                                                |
-| [photos_from_steve_1.jpg](/superdome_and_sleeper_cars/photos_from_steve_1.jpg)                | The first of many photos from Steve of the train                               |
-| [photos_from_steve_2.jpg](/superdome_and_sleeper_cars/photos_from_steve_2.jpg)                |                                                                                |
-| [photos_from_steve_3.jpg](/superdome_and_sleeper_cars/photos_from_steve_3.jpg)                |                                                                                |
-| [photos_from_steve_4.jpg](/superdome_and_sleeper_cars/photos_from_steve_4.jpg)                |                                                                                |
-| [photos_from_steve_5.jpg](/superdome_and_sleeper_cars/photos_from_steve_5.jpg)                |                                                                                |
-| [photos_from_steve_6.jpg](/superdome_and_sleeper_cars/photos_from_steve_6.jpg)                |                                                                                |
-| [photos_from_steve_7.jpg](/superdome_and_sleeper_cars/photos_from_steve_7.jpg)                |                                                                                |
-| [photos_from_steve_8.jpg](/superdome_and_sleeper_cars/photos_from_steve_8.jpg)                |                                                                                |
-| [photos_from_steve_9.jpg](/superdome_and_sleeper_cars/photos_from_steve_9.jpg)                |                                                                                |
-| [photos_from_steve_10.jpg](/superdome_and_sleeper_cars/photos_from_steve_10.jpg)              |                                                                                |
-| [train_questions.md](/superdome_and_sleeper_cars/train_questions.md)                          | Notes from a call with the owner of our private charter cars                   |
-| **`/zephyrnet`**                                                                              |                                                                                |
-| [deployments.md](/zephyrnet/deployments.md)                                                   | How deployments worked on the ZephyrNet                                        |
-| [hardware_brainstorm_w_chaleb.md](/zephyrnet/hardware_brainstorm_w_chaleb.md)                 | Looking into what hardware to buy                                              |
-| [introduction.md](/zephyrnet/introduction.md)                                                 | Introduction message                                                           |
-| [software.md](/zephyrnet/software.md)                                                         | Brainstorm into the software used                                              |
-| [tp_link_config.md](/zephyrnet/tp_link_config.md)                                             | Config file for the tp-link ethernet switches                                  | -->
+| File                      | Description                                                                                              |
+| ------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [./assets](/assets)       | Sketches, logos, videos, etc. that we used to market the Zephyr                                          |
+| [./logistics](/logistics) | Documentation on planning, scheduling, coordinating, and other details                                   |
+| [./notes](/notes)         | Assorted notes from staff                                                                                |
+| [./slack](/slack)         | Announcements posted in Slack                                                                            |
+| [./zephyrnet](/zephyrnet) | Technical documentation / notes on the hardware & software that went into building the Zephyr's intranet |
 
 ## 💵 Finances
 
@@ -157,10 +89,11 @@ The finances for the Hacker Zephyr have been open sourced [here](http://bank.hac
 
 We've previously run other summer projects:
 
-| Year | Project                                                        | Description                                                                                                                                                                                                                            |
-| ---- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2021 | [The Hacker Zephyr](#-the-hacker-zephyr)                       | _This repo!_                                                                                                                                                                                                                           |
-| 2020 | [Summer of Making](https://summer.hackclub.com)                | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook))                                                              |
-| 2019 | [Flagship Summit](https://flagship.hackclub.com)               | IRL meetup of high school hackathon organizers and coding club leaders ([photos](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB)) |
-| 2016 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2016) | Summer camp / further writing & testing workshops                                                                                                                                                                                      |
-| 2015 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2015) | Summer camp / testbed for Hack Club's first [workshops](https://workshops.hackclub.com) ([content](https://github.com/hackclub/hackclub/tree/main/workshops#readme))([code](https://github.com/hackclub/workshops))                    |
+| Year | Project                                                        | Description                                                                                                                                                                                                                                                                           |
+| ---- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2021 | [The Hacker Zephyr](#-the-hacker-zephyr)                       | _This repo!_                                                                                                                                                                                                                                                                          |
+| 2020 | [Summer of Making](https://summer.hackclub.com)                | $50k in hardware donations to teen hackers around the world + the creation of [Scrapbook](https://scrapbook.hackclub.com) ([code](https://github.com/hackclub/scrapbook))                                                                                                             |
+| 2019 | [Flagship Summit](https://flagship.hackclub.com)               | IRL meetup of high school hackathon organizers and coding club leaders ([photos](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB))                                                |
+| 2018 | [Hack Club Bank](https://hackclub.com/bank/)                   | We built and launched the first version of Hack Club Bank (read the [1st](https://medium.com/hackclub/hack-club-bank-a-bank-for-student-hackers-e5d894ea5375) and [2nd](https://medium.com/hackclub/hack-club-bank-is-now-live-for-everyone-including-you-884f7f54836f) announcement) |
+| 2016 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2016) | Summer camp / further writing & testing workshops                                                                                                                                                                                                                                     |
+| 2015 | [Hack Camp](https://github.com/hackclub/camp/tree/master/2015) | Summer camp / testbed for Hack Club's first [workshops](https://workshops.hackclub.com) ([content](https://github.com/hackclub/hackclub/tree/main/workshops#readme))([code](https://github.com/hackclub/workshops))                                                                   |
