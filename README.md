@@ -18,15 +18,15 @@ When we looked at our options for securing a train that could support 50 hackers
 2. find a nation-wide charter that would take us from burlington to la
 3. combination of the two
 
-The pros of amtrak were that id' be cheapest, and perhaps the easiest tto buy tickets for, but the downsides were that we'd have to wear masks, wouldn' t havae our own space, share the space with other amtrak passengers & cwould have many transfers. Amtrak cons is that all food would need to be prepackaged & we couldn't serve meals
+The pros of amtrak were that it would be cheapest, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't havae their own space, share the space with other amtrak passengers, and there may be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
 
 The benefit of the full charger is that we'd have our own space we can control, we can serve meals onboard, we can set covid policy (no masks), we could get a bed for everybody, and other thnings that made a private charter about 1000x better. the downside is that private chargers are much more expensive & harder to find. In the past 2-3 year (link to rule change) a recent policy chaange makde it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so beecause of the cahnge.
 
-We decided to go with the best of both worlds: a combination of the two. We'd take amtrak from burlington vermont to new york city, then chicago, and then we'd board 3 private cars for the longest segment of the trip: from chicago to denver then san francisco (55 hours). Finally we'd take amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end at SpaceX
+We decided to go with the best of both worlds: a combination of the two. We'd take amtrak from Burlington, Vermont to new york city, then Chicago, and then we'd board 3 private cars for the longest segment of the trip: from chicago to denver then san francisco (55 hours). This private car ended up being the Superdome, the last of an initial 8 remaining in the US. Finally, we'd take the Amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end at SpaceX and Venice Beach.
 
 After 40+ meetings with different groups in the train industry, trayin enthusiists, and with amtrak (including a failed attempt to meet with Amtrak's CEO), we finally found AAPRCO, the american association...., and specifically steve samburg (spelling). It turns out that over the past 50 years as railroads have gone out of business and sold off their assets, normal indiviauls (hobyists) would go to the liquidation office and buy full railcars from the 40s and 50s at incredibly low prices. Steve is the largest private railcar owner in the country that we know of & he owns 18 cars (check this number) and 2 locomotives. He was also hired by the Clinton + Al Gore campaign in 1996 (which they won) and used the same car we used (check this).
 
-We met with steve, and while he was originally aprehensive b/c he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the hacker zephyr happen.
+We met with Steve, and while he was originally aprehensive b/c he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the hacker zephyr happen.
 
 In the end we had 3 train cars, 2 pullman sleepers, and the SUPERDOME (link & images). Steve was onbord the whole way with his crew helping make the trip special.
 
@@ -48,13 +48,13 @@ Following this we'd invite them to a private channel, coordinate with them on tr
 
 ## ZephyrNET & the Hackathon
 
-Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except while passing through towns. 
+Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except when passing through towns. 
 
-The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet/).
+The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars, called the ZephyrNET. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet/).
 
 We looked at our favorite hackathons (each wonderful in [their](https://ldjam.com/) [own](http://www.stupidhackathon.com/) [way](https://www.codeday.org/)) and tried to pull a bit from each when coming up with [the focus of the event](./notes/hackerland.md). The Zephyr would be an anti-hackathon. It'd take the experience back to the highs of the 2014 college hackathon experience.
 
-The hackathon's theme was to build a time capsule– too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline). The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md) (an opt-in version of the original idea to `rm -rf` the whole server).
+The hackathon's theme was to build a time capsule too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline), and there would be no prizes or judging. The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md) (an opt-in version of the original idea to `rm -rf` the whole server).
 
 <!-- ## Building an Adventure of a Lifetime
 
@@ -64,16 +64,15 @@ _TBC_ -->
 
 Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you cna start to understand how the whole internet can the universe at alarge can exist. Hack Club believes that coding is an insired activity(creative). To do inspired work you need to have inspired experiences and be in inspiring settings. With that, we wanted the hacker zephyr to be unlike any hackathon to ever hve run before. There would be no API prices, no sponsor talks, and no sponsors at opening ceremony.
 
-instead, we wanted the hz to feel like something could happen at any moment. we wanted it to be a place outside of the 'default world', particularly for hihgh schoolers who have a default world in classrooms and the college admissions process. (line from jared email about college admissions process & joy).
+Instead, we wanted the hz to feel like something could happen at any moment. we wanted it to be a place outside of the 'default world', particularly for high schoolers who are stuck with classrooms and college admissions always at the back (or forefront) of their minds.
 
-so, we called up every weirdo, creative, and out of this box thinker we knew. our first call was to woody keppel, an incredible actor and performer, and professional clown. woody brought in jeremy holm (imdb link), who would later storm down the isles of an amtrak coach in an ape suite with woody in zookeeper outfit in hot persuit.
+So, we called up every weirdo, creative, and out of this box thinker we knew. Our first call was to [Woody Keppel](https://woodykeppel.com/), an incredible actor and performer, and professional clown. Woody brought in jeremy holm ([imdb link](https://www.imdb.com/name/nm3124435/)), who would later storm down the isles of an amtrak coach in an ape suite with woody in hot pursuit, as a zookeeper, among other things.
 
-Woody was the mastermind behind making the experinece wat it was and he totally acomplished making it feel like a wholesome david lynch movie. On our first night, he hid a marching band in the bushes that surprised everyone. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (link).
+Woody was the mastermind behind making the experinece what it was and he made it feel like a _wholesome_ david lynch movie. For example, on our first night, he hid a marching band in the tree that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (link).
 
+Over the course of the jorney we were visited by Jerry from Ben & Jerry's, the Libermans (previous Heads of Product at Snapchat), to Tom Preston-Werner, Zeb Scoville, and Cliff Stoll.
 
-over the course of the jorney we were visited by Jerry from ben and jerry, the libermans who are political exiles of russia, to tom preston werner, zeb schobol, and klienerbottle-guy.
-
-with all of this, and woody+jeremy's magic, passing through the rockies at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. we hope that in the future it will inspire some of the hackathons in the future.
+With all of this, and woody+jeremy's magic, passing through the rockies at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. we hope that in the future it will inspire some of the hackathons in the future.
 
 
 <!-- 
