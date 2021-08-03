@@ -6,7 +6,7 @@
 
 <img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />
 
-_The Zephyr passing Rocky Flats, Colorado._
+_The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
 <!-- ## Securing the Train
 
