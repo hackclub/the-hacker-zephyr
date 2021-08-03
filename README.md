@@ -14,7 +14,7 @@ _TBC_
 
 ## The Launch & Applications
 
-Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms)!
+Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms-hints)!
 
 The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a [ticketing system](https://github.com/hackclub/all-aboard-tickets), Hack Clubbers could react to the Slack announcement with the 🎟 emoji and would be sent their very own [digital ticket to the meeting](https://camo.githubusercontent.com/d5802c680357ab439dac7fd86a46089aee8cc007341c1c37ebe79ad8df3b54bc/68747470733a2f2f636c6f75642d3578686f30663736622d6861636b2d636c75622d626f742e76657263656c2e6170702f307469636b65742d31302e706e67). These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. 
 
