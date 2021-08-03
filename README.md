@@ -4,7 +4,7 @@
 
 **In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).** This is the story of how we did it.
 
-<img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />
+[<img src="https://cloud-qefbe8o34-hack-club-bot.vercel.app/0image_from_ios__36_.jpg" width="600" />](https://youtu.be/7pvGNYPR9KQ)
 
 _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
