@@ -2,6 +2,9 @@
 
 Below are excerpts from the private ZephyrNET planning repository created to work through deploy flows—initially, we created a captive-portal based authentication flow on an open network, then moved to a private-network based deploy flow.
 
+
+These notes were done by @zrl, @zfogg, @rishiosaur and @msw.
+
 # Hotspot popup
 
 1. I connect to a network named "ZephyrNET" on my MacBook Air
