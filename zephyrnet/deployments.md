@@ -1,6 +1,6 @@
 # Introduction
 
-Below are excerpts from the private ZephyrNET planning repository created to work through deploy flows—initially, we created a captive-portal based authentication flow on an open network, then moving to a private-network based deploy flow.
+Below are excerpts from the private ZephyrNET planning repository created to work through deploy flows—initially, we created a captive-portal based authentication flow on an open network, then moved to a private-network based deploy flow.
 
 # Hotspot popup
 
