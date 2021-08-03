@@ -8,9 +8,29 @@
 
 _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
-<!-- ## Securing the Train
+## Securing the Train
 
-_TBC_ -->
+Charting a train across america is actually quite a hard thing to do. They heyday of america's railnetwork in 1940s was quite expansive (image). Today more than half the routes are clsesd and there is only one company in charge (amtrak w/ route image)
+
+When we looked at our options for securing a train that could support 50 hackers across the country, we had 3 options:
+
+1. purely amtrak
+2. find a nation-wide charter that would take us from burlington to la
+3. combination of the two
+
+The pros of amtrak were that id' be cheapest, and perhaps the easiest tto buy tickets for, but the downsides were that we'd have to wear masks, wouldn' t havae our own space, share the space with other amtrak passengers & cwould have many transfers. Amtrak cons is that all food would need to be prepackaged & we couldn't serve meals
+
+The benefit of the full charger is that we'd have our own space we can control, we can serve meals onboard, we can set covid policy (no masks), we could get a bed for everybody, and other thnings that made a private charter about 1000x better. the downside is that private chargers are much more expensive & harder to find. In the past 2-3 year (link to rule change) a recent policy chaange makde it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so beecause of the cahnge.
+
+We decided to go with the best of both worlds: a combination of the two. We'd take amtrak from burlington vermont to new york city, then chicago, and then we'd board 3 private cars for the longest segment of the trip: from chicago to denver then san francisco (55 hours). Finally we'd take amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end at SpaceX
+
+After 40+ meetings with different groups in the train industry, trayin enthusiists, and with amtrak (including a failed attempt to meet with Amtrak's CEO), we finally found AAPRCO, the american association...., and specifically steve samburg (spelling). It turns out that over the past 50 years as railroads have gone out of business and sold off their assets, normal indiviauls (hobyists) would go to the liquidation office and buy full railcars from the 40s and 50s at incredibly low prices. Steve is the largest private railcar owner in the country that we know of & he owns 18 cars (check this number) and 2 locomotives. He was also hired by the Clinton + Al Gore campaign in 1996 (which they won) and used the same car we used (check this).
+
+We met with steve, and while he was originally aprehensive b/c he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the hacker zephyr happen.
+
+In the end we had 3 train cars, 2 pullman sleepers, and the SUPERDOME (link & images). Steve was onbord the whole way with his crew helping make the trip special.
+
+We worked with Steve to bring as many hack clubbers along with us, but we ran into a physi8cal constraint in denver station. Even with the 3 cars the tarin was so long we blocked traffic at any of the stops we made (ian photo).
 
 ## The Launch & Applications
 
@@ -40,9 +60,9 @@ The hackathon's theme was to build a time capsule– too many hackathons are for
 
 _TBC_ -->
 
-<!-- ## The Trip
+## The Trip
 
-_TBC_ -->
+
 
 <!-- 
 
