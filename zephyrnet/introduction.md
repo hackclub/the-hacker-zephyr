@@ -1,4 +1,4 @@
-Welcome to the ZephyrNET. We can't access the internet, so we're building our own.
+Welcome to the ZephyrNET. We couldn't access the internet on the train, so we built our own.
 
 **The challenge:** Make 500 contributions to the ZephyrNET before we arrive in Los Angeles.
 
