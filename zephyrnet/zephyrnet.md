@@ -34,8 +34,8 @@ The Commie VM (the virtual machine where all operations took place) had an insta
 ## Problems
 
 - weird assumptions– thought people would SSH, but many didn’t know how
-  -  people started setting up rsync configs & would overwrite their .git folders
+-  people started setting up rsync configs & would overwrite their .git folders, breaking our carefully orchestrated deploy flow
 - people didn't know to check the auto-generated README, or wouldn't read through the steps
 - the provided git steps were broken– the switch from master to main wasn’t consistent for everyone & it broke stuff when people couldn’t push/pull to the primary branch
 - inotifywait would clog up when people did big filesystem operations (some people were scripting file creation & it would back up—there was a mutex lock on our ports directory, which slowed everything down and prevented parallelization)
-- if someone created an index.html, then created an entrypoint.sh, we didn’t handle that edgecase (updating the nginx config with a proxypass)
+- if someone created an index.html, then created an entrypoint.sh, we didn’t handle that edgecase—instead of updating the config files to use `proxy_pass`, the deploy flow kept the `try_files` clause, leading to 502 errors everywhere.
