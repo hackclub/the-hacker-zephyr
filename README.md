@@ -62,6 +62,18 @@ _TBC_ -->
 
 ## The Trip
 
+Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you cna start to understand how the whole internet can the universe at alarge can exist. Hack Club believes that coding is an insired activity(creative). To do inspired work you need to have inspired experiences and be in inspiring settings. With that, we wanted the hacker zephyr to be unlike any hackathon to ever hve run before. There would be no API prices, no sponsor talks, and no sponsors at opening ceremony.
+
+instead, we wanted the hz to feel like something could happen at any moment. we wanted it to be a place outside of the 'default world', particularly for hihgh schoolers who have a default world in classrooms and the college admissions process. (line from jared email about college admissions process & joy).
+
+so, we called up every weirdo, creative, and out of this box thinker we knew. our first call was to woody keppel, an incredible actor and performer, and professional clown. woody brought in jeremy holm (imdb link), who would later storm down the isles of an amtrak coach in an ape suite with woody in zookeeper outfit in hot persuit.
+
+Woody was the mastermind behind making the experinece wat it was and he totally acomplished making it feel like a wholesome david lynch movie. On our first night, he hid a marching band in the bushes that surprised everyone. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (link).
+
+
+over the course of the jorney we were visited by Jerry from ben and jerry, the libermans who are political exiles of russia, to tom preston werner, zeb schobol, and klienerbottle-guy.
+
+with all of this, and woody+jeremy's magic, passing through the rockies at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. we hope that in the future it will inspire some of the hackathons in the future.
 
 
 <!-- 
