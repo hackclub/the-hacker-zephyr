@@ -13,9 +13,9 @@ with love,
 
 ### Network
 
-the network of ZephyrNET was simply a LAN. it was accessed via WiFi. i personally routed five train cars with ethernet and WiFi, along with my friend Dan Eckert who graciously donated his workweek time + networking equiptment to Hack Club in order to make it all happen (thanks Dan!).
+the network of ZephyrNET was simply a LAN. it was accessed via WiFi. i personally routed five train cars with ethernet and WiFi, along with my friend Dan Eckert who graciously donated his workweek time + networking equipment to Hack Club in order to make it all happen (thanks Dan!).
 
-the gear we used is:
+here's the gear we used:
 * 1 Ubiquiti Unifi Dream Machine router
 * 6 Ubiquiti Unifi AP-Lite wireless access points
 * 1 Ubiquiti Unifi AP-LR (Long Range) wireless access point
@@ -23,7 +23,7 @@ the gear we used is:
 
 #### NYC -> Chicago
 
-we bought most of the seats in one Amtrak car. other passengers could still walk through. when we boarded, the conducter saw us bringing zephyrnet server onboard and asked about power consumption. we basically were very friendly and got their permission to run ethernet down the luggage rack for wifi. it ended up going well, but many passengers who got on board were quite audibly confused. this stretch was for one night, and hack clubbers stayed in their seats in coach for the night.
+we bought most of the seats in one Amtrak car. other passengers could still walk through. when we boarded, the conductor saw us bringing the zephyrnet server onboard and asked about power consumption. we basically were very friendly and got their permission to run ethernet down the luggage rack for wifi. it ended up going well, but many passengers who got on board were quite audibly confused. this stretch was for one night, and hack clubbers stayed in their seats in coach for the night.
 
 #### Chicago -> San Francisco
 
@@ -31,7 +31,7 @@ three private train cars attached to an amtrak route. a "superdome" with a sleep
 
 #### San Francisco -> LA
 
-the coastal starlight is the most beaufitul route in the country. it was much like the first leg of the trip, except much prettier and not overnight. it went without a hitch and we had great intranet during this bit.
+the coastal starlight is the most beautiful route in the country. it was much like the first leg of the trip, except much prettier and not overnight. it went without a hitch and we had great intranet during this bit.
 
 ### Compute
 
