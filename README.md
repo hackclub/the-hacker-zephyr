@@ -92,10 +92,6 @@ We looked at our favorite hackathons (each wonderful in [their](https://ldjam.co
 
 The hackathon's theme was to build a time capsule too many hackathons are forgotten the day after the event ends b/c their website goes down & their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook (forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline), and there would be no prizes or judging. The goal was to reach 500 contributions to the time capsule or else delete the folders of members that [volunteered](./zephyrnet/volunteers-to-deletion.md) (an opt-in version of the original idea to `rm -rf` the whole server).
 
-<!-- ## Building an Adventure of a Lifetime
-
-_TBC_ -->
-
 ## The Trip
 
 Coding is one of the most surreal activities a human can do. In a matter of
@@ -183,7 +179,7 @@ The finances for the Hacker Zephyr have been open sourced [here](http://bank.hac
 
 ## ☀️ Previous Work
 
-We've previously run other summer projects:
+We've previously ran other summer projects:
 
 | Year | Project                                                        | Description                                                                                                                                                                                                                                                                           |
 | ---- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
