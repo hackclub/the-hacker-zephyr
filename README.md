@@ -10,63 +10,28 @@ _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
 ## Securing the Train
 
-Turns out charting a train across America is actually quite a hard thing to do.
-The heyday of America's rail network in 1940s was quite expansive (image of
-1940s rail map). Today more than half the routes are closed and there is only
-one company in charge. (amtrak w/ route image)
+Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive (image of 1940s rail map). Today more than half the routes are closed and there is only one company in charge: Amtrak.
 
-When we looked at our options for securing a train that could support 50 hackers
-across the country, we had 3 options:
+When we looked at our options for securing a train that could support 50 hackers across the country, we had 3 options:
 
-1. purely amtrak
-2. find a nation-wide charter that would take us from burlington to la
+1. Purely Amtrak
+2. Find a nation-wide charter that would take us from Burlington to LA
 3. combination of the two
 
-The pros of Amtrak were that it would be cheapest, and perhaps the easiest to
-buy tickets for, but the downsides would be that attendees would have to wear
-masks, wouldn't havae their own space, share the space with other Amtrak
-passengers, and there may be many transfers. Additionally, all food would need
-to be prepackaged & we couldn't serve our own meals.
+The benefits of Amtrak was that it would be cheapest, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't have their own space, we'd share the space with other Amtrak passengers, and there may be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
 
-The benefit of the full charger is that we'd have our own space we can control,
-we can serve meals onboard, we can set covid policy (no masks), we could get a
-bed for everybody, and other thnings that made a private charter about 1000x
-better. the downside is that private chargers are much more expensive & harder
-to find. In the past 2-3 year (link to rule change) a recent policy chaange
-makde it even harder for private charters to operate. Many of the private
-charter owners we talked to went out of business over the past year or so
-beecause of the cahnge.
+The benefit of the full charter was that we'd have our own space we can control, we can serve meals onboard, we could set our own COVID-19 policy (no masks), we could get a bed for everybody, and other things that made a private charter about 1000x better. The downside was that private charters are much more expensive & harder to find. In the past 2-3 years, a [recent policy change](https://www.bloomberg.com/news/articles/2019-03-25/can-you-buy-your-own-train-here-s-what-it-takes) made it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so because of the change.
 
-We decided to go with the best of both worlds: a combination of the two. We'd
-take Amtrak from Burlington, Vermont to New York City, then Chicago, and then
-we'd board 3 private cars for the longest segment of the trip: from chicago to
-denver then san francisco (55 hours). This private car ended up being the
-Superdome, the last of an initial 8 remaining in the US. Finally, we'd take the
-Amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end
-at SpaceX and Venice Beach.
+We decided to go with the best of both worlds: a combination of the two. We'd take a bus from Burlington, Vermont to New York City, then Amtrak to Chicago, and then we'd board 3 private cars for the longest segment of the trip: from Chicago to
+Denver then San Francisco (55 hours). This private car ended up being the Superdome, the last of an initial 8 remaining in the US. Finally, we'd take Amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end at SpaceX and Venice Beach.
 
-After 40+ meetings with different groups in the train industry, trayin
-enthusiists, and with amtrak (including a failed attempt to meet with Amtrak's
-CEO), we finally found AAPRCO, American Association of Private Railroad Car
-Owners, and specifically Steve Sandberg (spelling). It turns out that over the
-past 50 years as railroads have gone out of business and sold off their assets,
-normal indiviauls (hobyists) would go to the liquidation office and buy full
-railcars from the 40s and 50s at incredibly low prices. Steve is the largest
-private railcar owner in the country that we know of & he owns 18 cars (check
-this number) and 2 locomotives. He was also hired by the Clinton + Al Gore
-campaign in 1996 (which they won) and used the same car we used (check this).
+After 40+ meetings with different groups in the train industry, train enthusiasts, and with Amtrak (including a failed attempt to meet with Amtrak's CEO), we finally found AAPRCO, the American Association of Private Railroad Car Owners, and specifically Steve Sandberg. It turns out that over the past 50 years as railroads have gone out of business and sold off their assets, normal indiviauls (hobyists) would go to the liquidation office and buy full railcars from the 40s and 50s at incredibly low prices. Steve is the largest private railcar owner in the country that we know of & he owns 18 cars (check this number) and 2 locomotives. He was also hired to run the Clinton + Al Gore campaign in 1996 (which they won) and used the same car we used (check this).
 
-We met with Steve, and while he was originally aprehensive b/c he'd need to
-source a car from another part of the country to meet our needs, he agreed to do
-it and make the hacker zephyr happen.
+We met with Steve, and while he was originally aprehensive because he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the Hacker Zephyr happen.
 
-In the end we had 3 train cars, 2 pullman sleepers, and the SUPERDOME (link &
-images). Steve was onbord the whole way with his crew helping make the trip
-special.
+In the end we had 3 train cars, 2 pullman sleepers, and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)) (images). Steve was onbord the whole way with his crew helping make the trip special.
 
-We worked with Steve to bring as many hack clubbers along with us, but we ran
-into a physi8cal constraint in denver station. Even with the 3 cars the tarin
-was so long we blocked traffic at any of the stops we made (ian photo).
+We worked with Steve to bring as many Hack Clubbers along with us, but we ran into a physical constraint at Denver Station. Even with the 3 cars the train was so long we blocked traffic at any of the stops we made (add ian photo).
 
 ## The Launch & Applications
 
