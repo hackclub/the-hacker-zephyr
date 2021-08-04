@@ -10,9 +10,11 @@ _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
 ## Securing the Train
 
-Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive (image of 1940s rail map). Today more than half the routes are closed and there is only one company in charge: Amtrak.
+Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive. Today more than half the routes are closed and there is only one company in charge: Amtrak.
 
-When we looked at our options for securing a train that could support 50 hackers across the country, we had 3 options:
+<img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="600" alt="Image of 1940s rail map in the USA" />
+
+When we looked at our options for securing a train that could support 42 hackers across the country, we had 3 options:
 
 1. Purely Amtrak
 2. Find a nation-wide charter that would take us from Burlington to LA
@@ -28,7 +30,7 @@ After 40+ meetings with different groups in the train industry, train enthusiast
 
 We met with Steve, and while he was originally aprehensive because he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the Hacker Zephyr happen.
 
-In the end we had 3 train cars, 2 pullman sleepers, and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)) (images). Steve was onbord the whole way with his crew helping make the trip special.
+In the end we had 3 train cars, 2 pullman sleepers, and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)). Steve was onbord the whole way with his crew helping make the trip special.
 
 We worked with Steve to bring as many Hack Clubbers along with us, but we ran into a physical constraint at Denver Station. Even with the 3 cars the train was so long we blocked traffic at any of the stops we made (add ian photo).
 
@@ -36,7 +38,9 @@ We worked with Steve to bring as many Hack Clubbers along with us, but we ran in
 
 Launching the Hacker Zephyr began with this [cryptic video](https://twitter.com/hackclub/status/1396881237113966594) that we tweeted on the 24th of May. We'd follow this tweet up with a collection of more [cryptic tweets](assets/teasers.md), Tom Preston-Warner even created a [few of his own](assets/teasers.md#toms-hints)!
 
-The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a [ticketing system](https://github.com/hackclub/all-aboard-tickets), Hack Clubbers could react to the Slack announcement with the 🎟 emoji and would be sent their very own [digital ticket to the meeting](https://camo.githubusercontent.com/d5802c680357ab439dac7fd86a46089aee8cc007341c1c37ebe79ad8df3b54bc/68747470733a2f2f636c6f75642d3578686f30663736622d6861636b2d636c75622d626f742e76657263656c2e6170702f307469636b65742d31302e706e67). These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record. 
+The goal of this cryptic tweeting was to build up excitement for a mysterious community meeting we'd be hosting on the Saturday the 29th of May. We announced this on Wednesday the 26th of May. Accompanying the announcement was a [ticketing system](https://github.com/hackclub/all-aboard-tickets), Hack Clubbers could react to the Slack announcement with the 🎟 emoji and would be sent their very own [digital ticket to the meeting](https://camo.githubusercontent.com/d5802c680357ab439dac7fd86a46089aee8cc007341c1c37ebe79ad8df3b54bc/68747470733a2f2f636c6f75642d3578686f30663736622d6861636b2d636c75622d626f742e76657263656c2e6170702f307469636b65742d31302e706e67). These were a massive hit, they're likely what caused this Slack announcement to get 400+ reaction which at the time of writing is a Hack Club record.
+
+<img src="https://tickets.hackclub.com/api/ticket?username=USNPNJXNX" width="600" alt="Example of a ticket" />
 
 Building excitement for the meeting was one thing, we also needed to pull off a great meeting that would convey how excited we all were. We planned to start with some [old videos of trains with "American" music](https://youtu.be/3pdemObt1kA), then transition to a short introduction statement which would be followed by our [main trailer video](https://www.youtube.com/watch?v=FfGRgc18mh0). Zach & Tom would both then both talk about the trip and it's goals, once they were finished we opened the floor for questions from hackers. You can watch the full call [here](https://www.youtube.com/watch?v=wQebTjTyF7M).
 
