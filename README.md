@@ -170,7 +170,7 @@ The finances for the Hacker Zephyr have been open sourced [here](http://bank.hac
 - [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
 - [Ticket issuing service for announcement](https://github.com/hackclub/all-aboard-tickets)
 - [ZephyrNET Deployment Flow](https://github.com/hackclub/zephyr-deploy-service)
-- [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub) (still private)
+- [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
 - [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
 - [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
 - [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr) (ultimately not used)
