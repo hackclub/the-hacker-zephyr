@@ -10,27 +10,63 @@ _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
 ## Securing the Train
 
-Charting a train across america is actually quite a hard thing to do. They heyday of america's railnetwork in 1940s was quite expansive (image). Today more than half the routes are clsesd and there is only one company in charge (amtrak w/ route image)
+Turns out charting a train across America is actually quite a hard thing to do.
+The heyday of America's rail network in 1940s was quite expansive (image of
+1940s rail map). Today more than half the routes are closed and there is only
+one company in charge. (amtrak w/ route image)
 
-When we looked at our options for securing a train that could support 50 hackers across the country, we had 3 options:
+When we looked at our options for securing a train that could support 50 hackers
+across the country, we had 3 options:
 
 1. purely amtrak
 2. find a nation-wide charter that would take us from burlington to la
 3. combination of the two
 
-The pros of amtrak were that it would be cheapest, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't havae their own space, share the space with other amtrak passengers, and there may be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
+The pros of Amtrak were that it would be cheapest, and perhaps the easiest to
+buy tickets for, but the downsides would be that attendees would have to wear
+masks, wouldn't havae their own space, share the space with other Amtrak
+passengers, and there may be many transfers. Additionally, all food would need
+to be prepackaged & we couldn't serve our own meals.
 
-The benefit of the full charger is that we'd have our own space we can control, we can serve meals onboard, we can set covid policy (no masks), we could get a bed for everybody, and other thnings that made a private charter about 1000x better. the downside is that private chargers are much more expensive & harder to find. In the past 2-3 year (link to rule change) a recent policy chaange makde it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so beecause of the cahnge.
+The benefit of the full charger is that we'd have our own space we can control,
+we can serve meals onboard, we can set covid policy (no masks), we could get a
+bed for everybody, and other thnings that made a private charter about 1000x
+better. the downside is that private chargers are much more expensive & harder
+to find. In the past 2-3 year (link to rule change) a recent policy chaange
+makde it even harder for private charters to operate. Many of the private
+charter owners we talked to went out of business over the past year or so
+beecause of the cahnge.
 
-We decided to go with the best of both worlds: a combination of the two. We'd take amtrak from Burlington, Vermont to new york city, then Chicago, and then we'd board 3 private cars for the longest segment of the trip: from chicago to denver then san francisco (55 hours). This private car ended up being the Superdome, the last of an initial 8 remaining in the US. Finally, we'd take the Amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end at SpaceX and Venice Beach.
+We decided to go with the best of both worlds: a combination of the two. We'd
+take Amtrak from Burlington, Vermont to New York City, then Chicago, and then
+we'd board 3 private cars for the longest segment of the trip: from chicago to
+denver then san francisco (55 hours). This private car ended up being the
+Superdome, the last of an initial 8 remaining in the US. Finally, we'd take the
+Amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end
+at SpaceX and Venice Beach.
 
-After 40+ meetings with different groups in the train industry, trayin enthusiists, and with amtrak (including a failed attempt to meet with Amtrak's CEO), we finally found AAPRCO, the american association...., and specifically steve samburg (spelling). It turns out that over the past 50 years as railroads have gone out of business and sold off their assets, normal indiviauls (hobyists) would go to the liquidation office and buy full railcars from the 40s and 50s at incredibly low prices. Steve is the largest private railcar owner in the country that we know of & he owns 18 cars (check this number) and 2 locomotives. He was also hired by the Clinton + Al Gore campaign in 1996 (which they won) and used the same car we used (check this).
+After 40+ meetings with different groups in the train industry, trayin
+enthusiists, and with amtrak (including a failed attempt to meet with Amtrak's
+CEO), we finally found AAPRCO, American Association of Private Railroad Car
+Owners, and specifically Steve Sandberg (spelling). It turns out that over the
+past 50 years as railroads have gone out of business and sold off their assets,
+normal indiviauls (hobyists) would go to the liquidation office and buy full
+railcars from the 40s and 50s at incredibly low prices. Steve is the largest
+private railcar owner in the country that we know of & he owns 18 cars (check
+this number) and 2 locomotives. He was also hired by the Clinton + Al Gore
+campaign in 1996 (which they won) and used the same car we used (check this).
 
-We met with Steve, and while he was originally aprehensive b/c he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the hacker zephyr happen.
+We met with Steve, and while he was originally aprehensive b/c he'd need to
+source a car from another part of the country to meet our needs, he agreed to do
+it and make the hacker zephyr happen.
 
-In the end we had 3 train cars, 2 pullman sleepers, and the SUPERDOME (link & images). Steve was onbord the whole way with his crew helping make the trip special.
+In the end we had 3 train cars, 2 pullman sleepers, and the SUPERDOME (link &
+images). Steve was onbord the whole way with his crew helping make the trip
+special.
 
-We worked with Steve to bring as many hack clubbers along with us, but we ran into a physi8cal constraint in denver station. Even with the 3 cars the tarin was so long we blocked traffic at any of the stops we made (ian photo).
+We worked with Steve to bring as many hack clubbers along with us, but we ran
+into a physi8cal constraint in denver station. Even with the 3 cars the tarin
+was so long we blocked traffic at any of the stops we made (ian photo).
 
 ## The Launch & Applications
 
@@ -62,18 +98,47 @@ _TBC_ -->
 
 ## The Trip
 
-Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you cna start to understand how the whole internet can the universe at alarge can exist. Hack Club believes that coding is an insired activity(creative). To do inspired work you need to have inspired experiences and be in inspiring settings. With that, we wanted the hacker zephyr to be unlike any hackathon to ever hve run before. There would be no API prices, no sponsor talks, and no sponsors at opening ceremony.
+Coding is one of the most surreal activities a human can do. In a matter of
+hours you can take something from not existing to existing. Once you do that you
+can start to understand how the whole internet to the universe at large can
+exist. Hack Club believes that coding is a creative activity. To do inspired,
+creative work you need to have inspired experiences and be in inspiring
+settings. With that, we wanted The Hacker Zephyr to be unlike any hackathon to
+ever hve run before. There would be no API prices, no sponsor talks, and no
+sponsor talks at opening ceremony.
 
-Instead, we wanted the hz to feel like something could happen at any moment. we wanted it to be a place outside of the 'default world', particularly for high schoolers who are stuck with classrooms and college admissions always at the back (or forefront) of their minds.
+Instead, we wanted The Hacker Zephyr to feel like something could happen at any
+moment. We wanted it to be a place outside of the 'default world', particularly
+for high schoolers who are stuck with classrooms and college admissions always
+at the back (or forefront) of their minds.
 
-So, we called up every weirdo, creative, and out of this box thinker we knew. Our first call was to [Woody Keppel](https://woodykeppel.com/), an incredible actor and performer, and professional clown. Woody brought in jeremy holm ([imdb link](https://www.imdb.com/name/nm3124435/)), who would later storm down the isles of an amtrak coach in an ape suite with woody in hot pursuit, as a zookeeper, among other things.
+So, we called up every weirdo, creative, and out of this box thinker we knew.
+Our first call was to [Woody Keppel](https://woodykeppel.com/), an incredible
+actor and performer, and professional clown. Woody brought in Jeremy Holm ([imdb
+link](https://www.imdb.com/name/nm3124435/)), who would later storm down the
+isles of an amtrak coach in an ape suite with Woody in hot pursuit, as a
+zookeeper, among other things.
 
-Woody was the mastermind behind making the experinece what it was and he made it feel like a _wholesome_ david lynch movie. For example, on our first night, he hid a marching band in the tree that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (link).
+Woody was the mastermind behind making the experience what it was and he made it
+feel like a _wholesome_ David Lynch movie. For example, on our first night, he
+hid a marching band in the trees that stormed in serendipitously, which was quite
+the surprise. As the sun set into the Rockies, Woody transformed the SuperDome
+into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie
+service. He brought a band onboard, including one member called "Saw" who -
+between acts playing the violin - played a literal handsaw using his violin's
+bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles
+and sung the song he composed about The Hacker Zephyr with everyone, called 42
+Hackers (link).
 
-Over the course of the jorney we were visited by Jerry from Ben & Jerry's, the Libermans (previous Heads of Product at Snapchat), to Tom Preston-Werner, Zeb Scoville, and Cliff Stoll.
+Over the course of the jorney we were visited by Jerry from Ben & Jerry's, the
+Libermans (political exiles from Russia and previous Heads of Product at
+Snapchat), to Tom Preston-Werner (GitHub, SemVar, Toml, RedwoodJs), Zeb Scoville
+(NASA flight director), and Cliff Stoll (astronomer).
 
-With all of this, and woody+jeremy's magic, passing through the rockies at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. we hope that in the future it will inspire some of the hackathons in the future.
-
+With all of this, and Woody+Jeremy's magic, passing through the Rocky Mountains
+at 10k ft. with the band playing, it was a surreal hackathon experience we don't
+think anyone will experience again. We hope that in the future it will inspire
+some of the hackathons in the future.
 
 <!-- 
 
