@@ -26,7 +26,7 @@ When we looked at our options for securing a train that could support 42 hackers
 
 The benefit of Amtrak was the price, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't have their own space, we'd share the space with other Amtrak passengers, and there could be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
 
-The benefit of the full charter was that we'd have our own space we can control, we can serve meals onboard, we could set our own COVID-19 policy (no masks), we could get a bed for everybody, and other things that made a private charter about 1000x better. The downside was that private charters are much more expensive & harder to find. In the past 2-3 years, a [recent policy change](https://www.bloomberg.com/news/articles/2019-03-25/can-you-buy-your-own-train-here-s-what-it-takes) made it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so because of the change.
+The benefit of the full charter was that we'd have our own space we could control, could serve meals onboard, not have masks, get a bed for everybody, and other things that made a private charter about 1000x better. The downside was that private charters are much more expensive & harder to find. In the past 2-3 years, a [recent policy change](https://www.bloomberg.com/news/articles/2019-03-25/can-you-buy-your-own-train-here-s-what-it-takes) made it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so because of the change.
 
 We decided to go with the best of both worlds: a combination of the two. We'd take a bus from Burlington, Vermont to New York City, then Amtrak to Chicago, and then we'd board 3 private cars for the longest segment of the trip: from Chicago to Denver then San Francisco (55 hours). This private car ended up being the Superdome, the last of an initial 8 remaining in the US. Finally, we'd take Amtrak for the final and shortest leg of the trip, from SF to LA, where we'd end at SpaceX and Venice Beach.
 
@@ -34,7 +34,7 @@ After 40+ meetings with different groups in the train industry, train enthusiast
 
 We met with Steve, and while he was originally aprehensive because he'd need to source a car from another part of the country to meet our needs, he agreed to do it and make the Hacker Zephyr happen.
 
-In the end we had 3 train cars, 2 pullman sleepers, and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)). Steve was onbord the whole way with his crew helping make the trip special.
+In the end we had 3 train cars, 2 pullman sleepers, and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)). Steve was onboard the whole way with his crew helping make the trip special.
 
 We worked with Steve to bring as many Hack Clubbers along with us, but we ran into a [physical constraint at Denver Station](./assets/melody's_amazing_train_explainer/README.md). Even with the 3 cars the train was so long we [blocked](https://cloud-4cijeqoyj-hack-club-bot.vercel.app/0screen_shot_2021-08-05_at_10.44.51.png) [traffic](https://cloud-4cijeqoyj-hack-club-bot.vercel.app/1db526030-0219-483e-b1f4-513583e3c70b_1_105_c.jpeg) at any of the stops we made.
 
@@ -68,7 +68,7 @@ The hackathon's theme was to build a time capsule too many hackathons are forgot
 
 ## The Trip
 
-Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet to the universe at large can exist. Hack Club believes that coding is a creative activity. To do inspired, creative work you need to have inspired experiences and be in inspiring settings. With that, we wanted The Hacker Zephyr to be unlike any other hackathon. There would be no API prices, no sponsor talks, and no sponsor talks at opening ceremony.
+Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet to the universe at large can exist. Hack Club believes that coding is a creative activity. To do inspired, creative work you need to have inspired experiences and be in an inspiring settings. With that, we wanted The Hacker Zephyr to be unlike any other hackathon. There would be no API prices, no sponsor talks, and no sponsor talks at opening ceremony.
 
 Instead, we wanted The Hacker Zephyr to feel like something could happen at any moment. We wanted it to be a place outside of the 'default world', particularly for high schoolers who are stuck with classrooms and college admissions always at the back (or forefront) of their minds.
 
@@ -76,7 +76,7 @@ So, we called up every weirdo, creative, and out of this box thinker we knew. Ou
 
 <img src="https://cloud-9dyk4ybpe-hack-club-bot.vercel.app/0screenshot_2021-08-05_at_1.09.15_pm.png" width="450" alt="An Ape on Amtrak!" />
 
-Woody was the mastermind behind making the experience what it was and he made it feel like a _wholesome_ David Lynch movie. For example, on our first night, he hid a marching band in the trees that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (link).
+Woody was the mastermind behind making the experience what it was and he made it feel like a _wholesome_ David Lynch movie. For example, on our first night, he hid a marching band in the trees that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (need to add a link once this is uploaded).
 
 Over the course of the jorney we were visited by Jerry from Ben & Jerry's, the Libermans (political exiles from Russia and previous Heads of Product at Snapchat), to Tom Preston-Werner (GitHub, SemVar, Toml, RedwoodJs), Zeb Scoville (NASA flight director), and Cliff Stoll (astronomer).
 
