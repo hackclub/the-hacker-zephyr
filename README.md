@@ -70,11 +70,15 @@ Instead, we wanted The Hacker Zephyr to feel like something could happen at any 
 
 So, we called up every weirdo, creative, and out of this box thinker we knew. Our first call was to [Woody Keppel](https://woodykeppel.com/), an incredible actor and performer, and professional clown. Woody brought in Jeremy Holm ([IMDB](https://www.imdb.com/name/nm3124435/)), who would later storm down the isles of an Amtrak coach in an ape suite with Woody in hot pursuit, as a zookeeper, among other things.
 
+<img src="https://cloud-9dyk4ybpe-hack-club-bot.vercel.app/0screenshot_2021-08-05_at_1.09.15_pm.png" width="450" alt="An Ape on Amtrak!" />
+
 Woody was the mastermind behind making the experience what it was and he made it feel like a _wholesome_ David Lynch movie. For example, on our first night, he hid a marching band in the trees that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (link).
 
 Over the course of the jorney we were visited by Jerry from Ben & Jerry's, the Libermans (political exiles from Russia and previous Heads of Product at Snapchat), to Tom Preston-Werner (GitHub, SemVar, Toml, RedwoodJs), Zeb Scoville (NASA flight director), and Cliff Stoll (astronomer).
 
 With all of this, and Woody + Jeremy's magic, passing through the Rocky Mountains at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. We hope that in the future it will inspire hackathons with a similar spirit in the future.
+
+<img src="https://cloud-k18c7grqc-hack-club-bot.vercel.app/0spacex_and_hack_club.jpg" width="600" alt="Hack Club at SpaceX" />
 
 <!-- 
 
