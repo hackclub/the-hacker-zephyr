@@ -52,7 +52,7 @@ Now the secret was out we launched our [website](https://zephyr.hackclub.com) ([
 
 Those invited were [called](applications/invite_call_script.md) to receive the news and would then receive an [email](applications/invite_email_template.md) and a more detailed [guide](applications/attendee_welcome_packet.pdf). This made the process feel really personal. They'd have seven days for both them and their parents to sign a [Memorandum of Understanding](applications/memorandum_of_understanding.pdf) to confirm their participation. 
 
-Following this we'd invite them to a private channel, coordinate with them on travel arrangements, have them or their parents sign a [liability release](applications/liability_release.pdf) and for those under-18 have their parents sign the ["Freedom Waiver"](applications/freedom_waiver.pdf). After all this and packing, they were ready to enter the [Hackerland](notes/2021-06-29_hackerland.md) in Vermont.
+Following this we'd invite them to a private channel, coordinate with them on travel arrangements, have them or their parents sign a [liability release](applications/liability_release.pdf) and for those under-18 have their parents sign the ["Freedom Waiver"](applications/freedom_waiver.pdf). After all this and packing, they were ready to enter the [Hackerland](./notes/2021-06-30_hackerland.md) in Vermont.
 
 ## ZephyrNET & the Hackathon
 
