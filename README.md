@@ -110,7 +110,7 @@ Our planning docs are organized by topic into the following directories:
 
 ## 💵 Finances
 
-The finances for the Hacker Zephyr have been open sourced [here](http://bank.hackclub.com/zephyr) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427). We've also produced a transparency update which runs through all the finances, you can read here (coming soon).
+The finances for the Hacker Zephyr will be open sourced [here](http://bank.hackclub.com/zephyr) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427) once we've filtered out all the personal info. <!-- We're also produced a transparency update which runs through all the finances, you can read here. -->
 
 ## 💻 Associated Code Repositories
 
