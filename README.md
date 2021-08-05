@@ -52,7 +52,9 @@ Following this we'd invite them to a private channel, coordinate with them on tr
 
 ## ZephyrNET & the Hackathon
 
-Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except when passing through towns. 
+Large parts of the train route across the country would be without wifi or cellular access. Amtrak provides wifi, but their wifi is generally not connected to the internet except when passing through towns.
+
+<img src="https://cloud-djzf1kkgk-hack-club-bot.vercel.app/0image_from_ios.jpg" width="350" alt="On the train with the ZephyrNet" />
 
 The solution we came up with was lugging a 116 lbs server around with us (60lbs server + 56lbs hand-made wood enclosure) along with networking equipment we could setup on Amtrak coaches as well as on our private cars, called the ZephyrNET. A full write-up on the hardware and software behind this is available in [`zephyrnet/`](./zephyrnet/).
 
