@@ -121,7 +121,7 @@ The finances for the Hacker Zephyr will be open sourced [here](http://bank.hackc
 - [schedule.zephyr - event schedule](https://github.com/hackclub/zephyr-hub)
 - [photowall.zephyr - example dynamic ZephyrNET app](https://github.com/hackclub/photowall.zephyr)
 - [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
-- [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
+- [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr/tree/master/start.zephyr)
 - [captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr) (ultimately not used) 
 
 ## ☀️ Previous Work
