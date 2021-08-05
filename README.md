@@ -24,7 +24,7 @@ When we looked at our options for securing a train that could support 42 hackers
 2. Find a nation-wide charter that would take us from Burlington to LA
 3. combination of the two
 
-The benefits of Amtrak was that it would be cheapest, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't have their own space, we'd share the space with other Amtrak passengers, and there may be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
+The benefit of Amtrak was the price, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't have their own space, we'd share the space with other Amtrak passengers, and there could be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
 
 The benefit of the full charter was that we'd have our own space we can control, we can serve meals onboard, we could set our own COVID-19 policy (no masks), we could get a bed for everybody, and other things that made a private charter about 1000x better. The downside was that private charters are much more expensive & harder to find. In the past 2-3 years, a [recent policy change](https://www.bloomberg.com/news/articles/2019-03-25/can-you-buy-your-own-train-here-s-what-it-takes) made it even harder for private charters to operate. Many of the private charter owners we talked to went out of business over the past year or so because of the change.
 
