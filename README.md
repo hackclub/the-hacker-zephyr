@@ -10,9 +10,13 @@ _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
 ## Securing the Train
 
-Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive. Today more than half the routes are closed and there is only one company in charge: Amtrak.
+Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive:
 
 <img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="600" alt="Image of 1940s rail map in the USA" />
+
+Today more than half the routes are closed and there is only one company in charge: Amtrak.
+
+<img src="https://cloud-e5wyo56ga-hack-club-bot.vercel.app/0gv4sw.png" width="600" alt="Image of Amtrak rail map" />
 
 When we looked at our options for securing a train that could support 42 hackers across the country, we had 3 options:
 
