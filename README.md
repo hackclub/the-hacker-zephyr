@@ -124,7 +124,6 @@ The finances for the Hacker Zephyr will be open sourced [here](http://bank.hackc
 - [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr)
 - [captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr) (ultimately not used) 
 
-
 ## ☀️ Previous Work
 
 We've previously ran other summer projects:
