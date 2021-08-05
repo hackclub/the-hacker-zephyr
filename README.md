@@ -32,7 +32,7 @@ We met with Steve, and while he was originally aprehensive because he'd need to 
 
 In the end we had 3 train cars, 2 pullman sleepers, and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)). Steve was onbord the whole way with his crew helping make the trip special.
 
-We worked with Steve to bring as many Hack Clubbers along with us, but we ran into a physical constraint at Denver Station. Even with the 3 cars the train was so long we blocked traffic at any of the stops we made (add ian photo).
+We worked with Steve to bring as many Hack Clubbers along with us, but we ran into a [physical constraint at Denver Station](./assets/melody's_amazing_train_explainer/README.md). Even with the 3 cars the train was so long we [blocked](https://cloud-4cijeqoyj-hack-club-bot.vercel.app/0screen_shot_2021-08-05_at_10.44.51.png) [traffic](https://cloud-4cijeqoyj-hack-club-bot.vercel.app/1db526030-0219-483e-b1f4-513583e3c70b_1_105_c.jpeg) at any of the stops we made.
 
 ## The Launch & Applications
 
