@@ -78,7 +78,7 @@ So, we called up every weirdo, creative, and out of this box thinker we knew. Ou
 
 Woody was the mastermind behind making the experience what it was and he made it feel like a _wholesome_ David Lynch movie. For example, on our first night, he hid a marching band in the trees that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (need to add a link once this is uploaded).
 
-Over the course of the jorney we were visited by Jerry from Ben & Jerry's, the Libermans (political exiles from Russia and previous Heads of Product at Snapchat), to Tom Preston-Werner (GitHub, SemVar, Toml, RedwoodJs), Zeb Scoville (NASA flight director), and Cliff Stoll (astronomer).
+Over the course of the journey we were visited by Jerry from Ben & Jerry's, the Libermans (political exiles from Russia and previous Heads of Product at Snapchat), to Tom Preston-Werner (GitHub, SemVar, Toml, RedwoodJs), Zeb Scoville (NASA flight director), and Cliff Stoll (astronomer).
 
 With all of this, and Woody + Jeremy's magic, passing through the Rocky Mountains at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. We hope that in the future it will inspire hackathons with a similar spirit in the future.
 
