@@ -93,3 +93,4 @@ Stretch goals
 - VPN access to zephyrnet
 - analytics (who is browsing zephyr net, what services take the most resources etc.)
 - Alert anyone who uploaded their SSH keys to zephyrnet
+- Zero downtime reset (spin up a new VM instance before old one goes down)
