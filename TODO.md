@@ -88,6 +88,7 @@ _or, how we put the zephyrnet online after the train and reset it every 24 hours
 	- Services should spin up all fine
 - Bandwidth limiting (sane defaults that don’t hog office wifi)
 - Firewalled from office network
+- Zephyrnet is physically tucked away somewhere permenant
 
 Stretch goals
 
