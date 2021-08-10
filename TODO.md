@@ -76,9 +76,9 @@ _or, how we put the zephyrnet online after the train and reset it every 24 hours
 
 - ~~Services & websites available on the public internet at *.zephyrnet.hackclub.com~~
   - ~~Also need a working IP address~~
-- These should be public & searchable
-	- zephyrnet.hackclub.com
-	- chronicles.zephyrnet.hackclub.com
+- ~~These should be public & searchable~~
+	- ~~zephyrnet.hackclub.com~~
+	- ~~chronicles.zephyrnet.hackclub.com~~
 - ~~Nothing that shouldn’t be shared is shared~~
 	- ~~confessions~~
 	- ~~chronicles~~
