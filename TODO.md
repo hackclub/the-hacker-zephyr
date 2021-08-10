@@ -74,16 +74,16 @@ Finances
 
 _or, how we put the zephyrnet online after the train and reset it every 24 hours to make sure people don't mess with it even if they still have access_
 
-- Services & websites available on the public internet at *.zephyrnet.hackclub.com
-  - Also need a working IP address
+- ~~Services & websites available on the public internet at *.zephyrnet.hackclub.com~~
+  - ~~Also need a working IP address~~
 - These should be public & searchable
 	- zephyrnet.hackclub.com
 	- chronicles.zephyrnet.hackclub.com
-- Nothing that shouldn’t be shared is shared
-	- confessions
-	- chronicles
-	- photowall
-	- media
+- ~~Nothing that shouldn’t be shared is shared~~
+	- ~~confessions~~
+	- ~~chronicles~~
+	- ~~photowall~~
+	- ~~media~~
 - Resets every 24 hours
 	- Services should spin up all fine
 - Bandwidth limiting (sane defaults that don’t hog office wifi)
