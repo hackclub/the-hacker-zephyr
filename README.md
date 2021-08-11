@@ -1,10 +1,10 @@
 # 🚂 The Hacker Zephyr 
 
-[🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ Previous Work](#%EF%B8%8F-previous-work)
+[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ Previous Work](#%EF%B8%8F-previous-work)
 
 **In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).** This is the story of how we did it.
 
-[<img src="https://cloud-bpqt2lppi-hack-club-bot.vercel.app/0lossy.png" width="100%" />](https://youtu.be/7pvGNYPR9KQ)
+[<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://youtu.be/7pvGNYPR9KQ)
 
 _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 

@@ -16,9 +16,9 @@ To-do for wrap-up more generally:
 
 - [ ] Anything Hack Club needs to get reimbursed for from teammates (ex. ticket costs)
 
-- [ ] Pay all contractors / actors, including any bonuses
+- [X] Pay all contractors / actors, including any bonuses
 
-- [ ] Thank you notes
+- [X] Thank you notes
 
 - [ ] Lost playing cards, lost Diamond Age books
 
@@ -30,7 +30,7 @@ To-do for wrap-up more generally:
 
 To-do for open sourcing:
 
-- [ ] Planning documents. What's the best format for these? Maybe narrative form?
+- [X] Planning documents. What's the best format for these? Maybe narrative form?
 
 - [ ] Comb and annotate finances so Bank is ready to open source
 
