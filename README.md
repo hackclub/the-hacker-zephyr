@@ -8,6 +8,10 @@
 
 _The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
+Hack Club is a transparent and open source 501(c)(3) nonprofit. In this repo, we'll break down each step of the planning behind The Hacker Zephyr, including coming up with the original idea, securing a train, how we thought about structuring the hackathon itself, the ZephyrNET and how it worked (and a read-only copy of it on the internet), and the finances - including a  ledger of every single transaction.
+
+We believe that coding is a sacred act, and spaces like hackathons can help bring coding to more people in an inspired, creative way. That's what they did for everyone on the Hack Club team. Our hope is that the future of hackathons can be more creative, more hacker-focused, and more about building cool things with your friends, and that's what we tried to create on the Zephyr.
+
 ## Securing the Train
 
 Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive:
