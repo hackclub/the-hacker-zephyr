@@ -1,6 +1,6 @@
 # 🚂 The Hacker Zephyr 
 
-[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ Previous Summers](#%EF%B8%8F-previous-summers)
+[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-previous-summers)
 
 **In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).** This is the story of how we did it.
 
@@ -128,7 +128,7 @@ The finances for the Hacker Zephyr will be open sourced [here](http://bank.hackc
 - [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr/tree/master/start.zephyr)
 - [captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr) (ultimately not used) 
 
-## ☀️ Previous Summers
+## ☀️ In Years Past
 
 We've previously ran other summer projects:
 
