@@ -9,9 +9,9 @@ To-do for wrap-up more generally:
   - [x] Zach Latta
   - [x] Max
   - [ ] Zach Fogg
-  - [ ] Christina
-  - [ ] Tina
-  - [ ] Woody
+  - [X] Christina
+  - [X] Tina
+  - [X] Woody
   - [ ] Matthew
 
 - [ ] Anything Hack Club needs to get reimbursed for from teammates (ex. ticket costs)
