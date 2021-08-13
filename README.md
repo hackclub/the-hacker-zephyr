@@ -12,9 +12,8 @@ In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [
 
 This is the story of how we did it.
 
-[<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://youtu.be/7pvGNYPR9KQ)
-
-_The Zephyr passing through Rocky Flats, Colorado with 42 Hack Clubbers on board._
+[<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://youtu.be/7pvGNYPR9KQ)  
+_The Zephyr passing through Rocky Flats, Colorado with 42 Hack Clubbers on board._  
 
 Hack Club is a transparent and open source 501(c)(3) nonprofit. In this repo, we'll break down each step of the planning behind The Hacker Zephyr, including coming up with the original idea, securing the train, how we thought about structuring the hackathon itself, the ZephyrNET and how it worked (and a read-only copy of it on the internet), and the finances - including a  transparent ledger of every single dollar spent.
 
@@ -24,8 +23,7 @@ We believe that coding is a sacred act, and spaces like hackathons can help brin
 
 It turns out chartering a train across America is actually quite a difficult thing to do. The heyday of America's rail network in 1940s was quite expansive, but today more than half the routes are closed and there's only one company still operating passenger service: Amtrak.
 
-<img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="39%" alt="Image of 1940s rail map in the USA" /> <img src="https://cloud-e5wyo56ga-hack-club-bot.vercel.app/0gv4sw.png" width="56%" alt="Image of Amtrak rail map" />
-
+<img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="39%" alt="Image of 1940s rail map in the USA" /> <img src="https://cloud-e5wyo56ga-hack-club-bot.vercel.app/0gv4sw.png" width="56%" alt="Image of Amtrak rail map" />  
 _America's passenger rail network in the 1940s vs. today._
 
 We spent the first three weeks of planning purely focused on one question: is it even possible, logistically, to get 42 Hack Clubbers on a train across the country (and at the tailend of a pandemic, at that)?
