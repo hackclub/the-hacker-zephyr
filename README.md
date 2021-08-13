@@ -2,33 +2,39 @@
 
 [💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-previous-summers)
 
-Every summer, Hack Clubbers do something special. In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB). In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [Scrapbook](https://scrapbook.hackclub.com/), and hosted the [Summer of Making](https://summer.hackclub.com/).
+Every summer, Hack Clubbers do something special.
 
-**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).** This is the story of how we did it.
+In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB). 
+
+In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [Scrapbook](https://scrapbook.hackclub.com/), and hosted the [Summer of Making](https://summer.hackclub.com/).
+
+**In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).**
+
+This is the story of how we did it.
 
 [<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://youtu.be/7pvGNYPR9KQ)
 
-_The Zephyr passing Rocky Flats, Colorado with 42 Hack Clubbers on board._
+_The Zephyr passing through Rocky Flats, Colorado with 42 Hack Clubbers on board._
 
-Hack Club is a transparent and open source 501(c)(3) nonprofit. In this repo, we'll break down each step of the planning behind The Hacker Zephyr, including coming up with the original idea, securing a train, how we thought about structuring the hackathon itself, the ZephyrNET and how it worked (and a read-only copy of it on the internet), and the finances - including a  ledger of every single transaction.
+Hack Club is a transparent and open source 501(c)(3) nonprofit. In this repo, we'll break down each step of the planning behind The Hacker Zephyr, including coming up with the original idea, securing the train, how we thought about structuring the hackathon itself, the ZephyrNET and how it worked (and a read-only copy of it on the internet), and the finances - including a  transparent ledger of every single dollar spent.
 
-We believe that coding is a sacred act, and spaces like hackathons can help bring coding to more people in an inspired, creative way. That's what they did for everyone on the Hack Club team. Our hope is that the future of hackathons can be more creative, more hacker-focused, and more about building cool things with your friends, and that's what we tried to create on the Zephyr.
+We believe that coding is a sacred act, and spaces like hackathons can help bring coding to more people in an inspired, creative way. That's what they did for everyone on the Hack Club HQ team. Our hope is that the future of hackathons can be more creative, more hacker-focused, and more about building cool things with your friends, and that's what we tried to create on the Zephyr.
 
 ## Securing the Train
 
-Turns out charting a train across America is actually quite a hard thing to do. The heyday of America's rail network in 1940s was quite expansive:
+It turns out chartering a train across America is actually quite a difficult thing to do. The heyday of America's rail network in 1940s was quite expansive, but today more than half the routes are closed and there's only one company still operating passenger service: Amtrak.
 
-<img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="600" alt="Image of 1940s rail map in the USA" />
+<img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="39%" alt="Image of 1940s rail map in the USA" /> <img src="https://cloud-e5wyo56ga-hack-club-bot.vercel.app/0gv4sw.png" width="56%" alt="Image of Amtrak rail map" />
 
-Today more than half the routes are closed and there is only one company in charge: Amtrak.
+_America's passenger rail network in the 1940s vs. today._
 
-<img src="https://cloud-e5wyo56ga-hack-club-bot.vercel.app/0gv4sw.png" width="600" alt="Image of Amtrak rail map" />
+We spent the first three weeks of planning purely focused on one question: is it even possible, logistically, to get 42 Hack Clubbers on a train across the country (and at the tailend of a pandemic, at that)?
 
-When we looked at our options for securing a train that could support 42 hackers across the country, we had 3 options:
+After looking at Amtrak availability, talking with others who have done similar trips, and spending hours on the phone with train enthusiasts, we were able to narrow down the possibilities to three options:
 
-1. Purely Amtrak
-2. Find a nation-wide charter that would take us from Burlington to LA
-3. combination of the two
+1. Book everyone purely in Amtrak cars
+2. Source private cars from around the country and do a private charter
+3. Do some sort of combination of the two
 
 The benefit of Amtrak was the price, and perhaps the easiest to buy tickets for, but the downsides would be that attendees would have to wear masks, wouldn't have their own space, we'd share the space with other Amtrak passengers, and there could be many transfers. Additionally, all food would need to be prepackaged & we couldn't serve our own meals.
 
