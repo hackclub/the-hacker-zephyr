@@ -2,6 +2,8 @@
 
 [💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-previous-summers)
 
+Every summer, Hack Clubbers do something special. In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB). In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [Scrapbook](https://scrapbook.hackclub.com/), and hosted the [Summer of Making](https://summer.hackclub.com/).
+
 **In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).** This is the story of how we did it.
 
 [<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://youtu.be/7pvGNYPR9KQ)
