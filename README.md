@@ -78,7 +78,7 @@ The hackathon's theme was to build a time capsule. Too many hackathons are forgo
 
 ## The Trip
 
-Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet to the universe at large can exist. Hack Club believes that coding is a creative activity. To do inspired, creative work you need to have inspired experiences and be in an inspiring settings. With that, we wanted The Hacker Zephyr to be unlike any other hackathon. There would be no API prices, no sponsor talks, and no sponsor talks at opening ceremony.
+Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet to the universe at large can exist. Hack Club believes that coding is a creative activity. To do inspired, creative work you need to have inspired experiences and be in an inspiring settings. With that, we wanted The Hacker Zephyr to be unlike any other hackathon. There would be no API prizes, no sponsor talks, and no sponsor talks at opening ceremony.
 
 Instead, we wanted The Hacker Zephyr to feel like something could happen at any moment. We wanted it to be a place outside of the 'default world', particularly for high schoolers who are stuck with classrooms and college admissions always at the back (or forefront) of their minds.
 
@@ -86,11 +86,11 @@ So, we called up every weirdo, creative, and out of this box thinker we knew. Ou
 
 <img src="https://cloud-9dyk4ybpe-hack-club-bot.vercel.app/0screenshot_2021-08-05_at_1.09.15_pm.png" width="450" alt="An Ape on Amtrak!" />
 
-Woody was the mastermind behind making the experience what it was and he made it feel like a _wholesome_ David Lynch movie. For example, on our first night, he hid a marching band in the trees that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called 42 Hackers (need to add a link once this is uploaded).
+Woody was the mastermind behind making the experience what it was and he made it feel like a _wholesome_ David Lynch movie. For example, on our first night, he hid a marching band in the trees that stormed in serendipitously, which was quite the surprise. As the sun set into the Rockies, Woody transformed the SuperDome into the "Hacker Lounge", with a full non-alcoholic cocktail menu and black tie service. He brought a band onboard, including one member called "Saw" who - between acts playing the violin - played a literal handsaw using his violin's bow. On our last night, Woody tended to a bonfire on the beach in Los Angeles and sung the song he composed about The Hacker Zephyr with everyone, called [42 Riders](https://42.zephyrnet.hackclub.com/).
 
-Over the course of the journey we were visited by Jerry from Ben & Jerry's, the Libermans (political exiles from Russia and previous Heads of Product at Snapchat), to Tom Preston-Werner (GitHub, SemVer, Toml, RedwoodJS), Zeb Scoville (NASA flight director), and Cliff Stoll (astronomer).
+Over the course of the journey we were visited by Jerry from Ben & Jerry's, the Libermans (political exiles from Russia and previous Heads of Product at Snapchat), Tom Preston-Werner (GitHub, SemVer, Toml, RedwoodJS), Zeb Scoville (NASA flight director), and Cliff Stoll ([mad scientist](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)).
 
-With all of this, and Woody + Jeremy's magic, passing through the Rocky Mountains at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. We hope that in the future it will inspire hackathons with a similar spirit in the future.
+With all of this, and Woody + Jeremy's magic, passing through the Rocky Mountains at 10k ft. with the band playing, it was a surreal hackathon experience we don't think anyone will experience again. We hope that in the future it will inspire hackathons with a similar spirit.
 
 <img src="https://cloud-k18c7grqc-hack-club-bot.vercel.app/0spacex_and_hack_club.jpg" width="600" alt="Hack Club at SpaceX" />
 
@@ -120,7 +120,7 @@ Our planning docs are organized by topic into the following directories:
 
 ## 💵 Finances
 
-The finances for the Hacker Zephyr will be open sourced [here](http://bank.hackclub.com/zephyr) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427) once we've filtered out all the personal info. <!-- We're also produced a transparency update which runs through all the finances, you can read here. -->
+The finances for the Hacker Zephyr will be open sourced [here](http://bank.hackclub.com/zephyr) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427) once we've filtered out all the personal info.
 
 ## 💻 Associated Code Repositories
 
