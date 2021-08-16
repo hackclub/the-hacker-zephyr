@@ -1,6 +1,6 @@
 # 🚂 The Hacker Zephyr 
 
-[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-previous-summers)
+[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 Every summer, Hack Clubbers do something special.
 
