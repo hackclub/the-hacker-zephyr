@@ -44,7 +44,7 @@ After 40+ meetings with different groups in the train industry, train enthusiast
 
 We met with Steve, who was initially apprehensive because he'd need to source a car from another part of the country to fit all of us. But in the end he agreed, and just like that The Hacker Zephyr became a reality.
 
-We settled on a combination of [2 Pullman sleeper cars](http://railswest.com/pullman.html) and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)). These were attached, like a big Hacker caboose, to the end of one of Amtrak's cross-country overnight trains. Steve was onboard the whole way with his crew to make sure everything went smoothly. 
+We settled on a combination of [2 Pullman sleeper cars](http://railswest.com/pullman.html) and the [Superdome](https://en.wikipedia.org/wiki/Super_Dome_(railcar)). These were attached, like a big hacker caboose, to the end of one of Amtrak's cross-country overnight trains. Steve was onboard the whole way with his crew to make sure everything went smoothly. 
 
 While we worked with Steve to bring as many Hack Clubbers along with us as we could, we ran into a [physical constraint at Denver's Union Station](./assets/melody's_amazing_train_explainer/README.md). Even with just 3 extra cars, the train was so long we [blocked](https://cloud-4cijeqoyj-hack-club-bot.vercel.app/0screen_shot_2021-08-05_at_10.44.51.png) [traffic](https://cloud-4cijeqoyj-hack-club-bot.vercel.app/1db526030-0219-483e-b1f4-513583e3c70b_1_105_c.jpeg) at any of the stops we made. Oops.
 
