@@ -78,7 +78,7 @@ The hackathon's theme was to build a time capsule. Too many hackathons are forgo
 
 ## The Trip
 
-Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet to the universe at large can exist. Hack Club believes that coding is a creative activity. To do inspired, creative work you need to have inspired experiences and be in an inspiring settings. With that, we wanted The Hacker Zephyr to be unlike any other hackathon. There would be no API prizes, no sponsor talks, and no sponsor talks at opening ceremony.
+Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet to the universe at large can exist. Hack Club believes that coding is a creative activity. To do inspired, creative work you need to have inspired experiences and be in an inspiring settings. With that, we wanted The Hacker Zephyr to be unlike any other hackathon. There would be no API prizes and no sponsor talks.
 
 Instead, we wanted The Hacker Zephyr to feel like something could happen at any moment. We wanted it to be a place outside of the 'default world', particularly for high schoolers who are stuck with classrooms and college admissions always at the back (or forefront) of their minds.
 
