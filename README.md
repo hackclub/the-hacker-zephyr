@@ -78,8 +78,6 @@ We looked at our favorite hackathons (each wonderful in [their](https://ldjam.co
 
 The hackathon's theme was to build a time capsule. Too many hackathons are forgotten the day after the event ends because their website goes down and their projects don't work (and usually didn't work by the end of it anyways). Everything on the ZephyrNET would be open-sourced, and everyone would contribute to a public scrapbook, forked from our [community scrapbook](https://scrapbook.hackclub.com) to work offline, and there would be no prizes or judging. The goal was to reach 500 unique contributions to the time capsule or else it would delete the folders of members that [opted-in](/zephyrnet/volunteers-to-deletion.md). This was a slightly chiller version of the original idea to `rm -rf` the whole server if we didn't finish in time, but kept much of the same pressure.
 
-(this would be a good place to include a few notable examples of Zephyr projects. I think the Zoogle-Zing thing is particularly funny)
-
 ## The Trip
 
 Coding is one of the most surreal activities a human can do. In a matter of hours you can take something from not existing to existing. Once you do that you can start to understand how the whole internet, even the whole universe, comes to arise. Hack Club believes that coding is fundamentally a creative activity. To do inspired, creative work it helps a lot to have inspired experiences and be in inspiring settings. 
@@ -95,9 +93,7 @@ Woody was the mastermind behind making the experience what it was, which could o
 Over the course of the journey we were also visited by [Jerry](https://en.wikipedia.org/wiki/Jerry_Greenfield) from [Ben & Jerry's](https://www.benjerry.com/about-us), [the Libermans](https://instagram.com/libermans/) (political exiles from Russia and previous Heads of Product at Snapchat), [Tom Preston-Werner](https://tom.preston-werner.com/) (GitHub, SemVer, Toml, RedwoodJS), [Zeb Scoville](https://twitter.com/explorer_flight) ([NASA flight director](https://www.nytimes.com/2021/08/02/science/nasa-space-station-zebulon-scoville.html)), and Cliff Stoll ([mad scientist](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/)).
 
 All of these colorful characters, interacting with a few dozen excited teenage hackers, made for a uniquely electric atmosphere onboard and a lot of unforgettable memories, not to mention some incredible projects!
-
-(I feel like this section is missing a lot about the itinerary, particularly the terminus at SpaceX. Maybe one more paragraph here to talk about how the trip wrapped up). 
-
+ 
 <img src="https://cloud-k18c7grqc-hack-club-bot.vercel.app/0spacex_and_hack_club.jpg" width="600" alt="Hack Club at SpaceX" />
 
 <!-- 
