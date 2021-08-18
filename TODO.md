@@ -32,7 +32,7 @@ To-do for open sourcing:
 
 - [X] Planning documents. What's the best format for these? Maybe narrative form?
 
-- [ ] Comb and annotate finances so Bank is ready to open source
+- [x] Comb and annotate finances so Bank is ready to open source
 
   - Flagging now that there are some travel expenses that I (Zach) don't remember us approving
 
