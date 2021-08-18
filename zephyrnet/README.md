@@ -1,6 +1,6 @@
 # ZephyrNET - zephyr.network
 
-![max and zfogg with zephyrnet](https://hackclub.slack.com/files/U01DV5F30CF/F02BUDA9VUH/img_5771.jpg?origin_team=T0266FRGM&origin_channel=D01EG2KRR6Y)
+![max and zfogg with zephyrnet](https://cloud-anw1okjxh-hack-club-bot.vercel.app/0img_5771.jpg)
 
 in this directory, you'll find the planning docs for the ZephyrNET. this includes a physical server, a hypervisor, virtual machines, docker containers, and all the code and config to make them work. the docs are unedited other than privacy redactions.
 
@@ -25,29 +25,31 @@ here's the gear we used:
 
 #### NYC -> Chicago
 
-![zephyrnet on amtrak](https://hackclub.slack.com/files/U01DV5F30CF/F02B92NJ45U/img_20210718_163014514.jpg?origin_team=T0266FRGM&origin_channel=D01EG2KRR6Y)
+![zephyrnet on amtrak](https://cloud-anw1okjxh-hack-club-bot.vercel.app/1img_20210718_163014514.jpg)
 
 we bought most of the seats in one Amtrak car. other passengers could still walk through. when we boarded, the conductor saw us bringing the zephyrnet server onboard and asked about power consumption. we basically were very friendly and got their permission to run ethernet down the luggage rack for wifi. it ended up going well, but many passengers who got on board were quite audibly confused. this stretch was for one night, and hack clubbers stayed in their seats in coach for the night.
 
-![zephyrnet on amtrak again](https://hackclub.slack.com/files/U01DV5F30CF/F02BFQL0LMQ/img_20210718_163021214.jpg?origin_team=T0266FRGM&origin_channel=D01EG2KRR6Y)
+![zephyrnet on amtrak again](https://cloud-anw1okjxh-hack-club-bot.vercel.app/2img_20210718_163021214.jpg)
 
 #### Chicago -> San Francisco
 
 three private train cars attached to an amtrak route. a "superdome" with a sleeper on either side. the server, router, and master switch on the bottom floor of the superdome with two access points on top. a leaf switch and two access points in each sleeper, with 100ft of ethernet running back to the master switch. the train doors scraped against the ethernet, exposing the shielding a few times (RIP purple cords).
 
-![zephyrnet in chicago](https://hackclub.slack.com/files/U01DV5F30CF/F02BUDBNT7T/img_5653.jpg?origin_team=T0266FRGM&origin_channel=D01EG2KRR6Y)
+![zephyrnet in chicago](https://cloud-anw1okjxh-hack-club-bot.vercel.app/4img_5653.jpg)
 
 #### San Francisco -> LA
 
 the coastal starlight is the most beautiful route in the country. it was much like the first leg of the trip, except much prettier and not overnight. it went without a hitch and we had great intranet during this bit.
 
-![zephyrnet in venice](https://hackclub.slack.com/files/U01DV5F30CF/F02B943SH5L/ezgif.com-gif-maker.gif?origin_team=T0266FRGM&origin_channel=D01EG2KRR6Y)
+![zephyrnet in venice](https://cloud-nc09p1kqr-hack-club-bot.vercel.app/0ezgif.com-gif-maker.gif)
 
 ### Compute
 
 the compute power provided to hackers was 1 `Dell Poweredge R720` server. the server ran `Proxmox Virtual Environment` as its base operating system, which is a "hypervisor" (the OS that runs your VMs) with a nice web interface for remote VM access and control. we made a community Ubuntu VM at `commie.zephyr.network` and every Zephyr passenger given an account with `sudoer as root` access ("it's probably fine.. what could go wrong!?"). anyone who wanted a virtual machine could ask me or use the proxmox webui themselves to spawn a virtual machine of their choice, and then remote-access it with their laptops. however, no one actually wanted to do this and people seemed to be having the most fun being on the same host as their other participants. i think that is really neat and could be a fun thing to do with clubs.
 
 the server hardware included 192gb of ram, 32cores of cpu, 8 2tb hdds, and four gigabit ethernet ports, two power 750w supplies. our common virtual machine was issued about 128gb of ram and 16 cores, which leaves plenty of spare power for other virtual machines. the drives were put into RAID10 and given to the hypervisor which is running XFS filesytem.
+
+![zephyrnet on amtrak again](https://cloud-anw1okjxh-hack-club-bot.vercel.app/3pxl_20210719_062948946.jpg)
 
 ### Case
 
