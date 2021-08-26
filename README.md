@@ -6,14 +6,14 @@ Every summer, Hack Clubbers do something special.
 
 In 2019, 75 Hack Club leaders gathered in San Francisco for [Flagship](https://photos.google.com/share/AF1QipO3hb2mN-Q16icE-M16d-06uHyXLmvd3Rw6b_f_oosfAX9SnOvnouPOyO79P7pR7Q?key=anphZTNFUERPWXV3YnJQV2VzVVVFMFFVcGRDc3hB). 
 
-In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [Scrapbook](https://scrapbook.hackclub.com/), and hosted the [Summer of Making](https://summer.hackclub.com/).
+In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [Scrapbook](https://scrapbook.hackclub.com/) and hosted the [Summer of Making](https://summer.hackclub.com/).
 
 **In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon onboard (3,502 miles on land).**
 
 [<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://youtu.be/7pvGNYPR9KQ)  
 _The Zephyr passing through Rocky Flats, Colorado with 42 Hack Clubbers on board._  
 
-As a transparent and open source 501(c)(3) nonprofit, Hack Club decided to make every detail and product of this special trip publically available in this repo. Besides a brief narrative of The Hacker Zephyr journey, from how we first came up with the idea to our last stop in LA at SpaceX, here you can access all of our planning documents, financial records, and most importantly, a read-only copy of the ZephyrNET, our homemade mobile server which houses all of the projects Hack Clubbers completed while cruising across the USA.
+As a transparent and open-source 501(c)(3) nonprofit, Hack Club decided to make every detail and product of this special trip publicly available in this repo. Besides a brief narrative of The Hacker Zephyr journey, from how we first came up with the idea to our last stop in LA at SpaceX, here you can access all of our planning documents, financial records, and most importantly, a read-only copy of the ZephyrNET, our homemade mobile server which houses all of the projects Hack Clubbers completed while cruising across the USA.
 
 We work so hard to create extraordinary experiences like The Hacker Zephyr because we believe coding together can become a sacred act. It's hard to overestimate how much collaborative, creative energy is unleashed by a single good hackathon. That was certainly the case this July onboard the Zephyr, and we hope that it will serve as an inspiration for equally memorable hackathons in the future. 
 
