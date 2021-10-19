@@ -1,6 +1,6 @@
 # 🚂 The Hacker Zephyr 
 
-[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
+[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repositories](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 Every summer, Hack Clubbers do something special.
 
@@ -131,7 +131,7 @@ Our planning docs are organized by topic into the following directories:
 
 The finances for the Hacker Zephyr are open sourced [here](https://bank.hackclub.com/zephyr) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
 
-## 💻 Associated Code Repositories
+## 💻 Associated Repositories
 
 - [The Zephyr Chronicles (Offline Scrapbook Port)](https://github.com/hackclub/the-zephyr-chronicles)
 - [All Aboard (zephyr.hackclub.com site)](https://github.com/hackclub/all-aboard)
