@@ -1,6 +1,6 @@
 # 🚂 The Hacker Zephyr 
 
-[💻 Website](https://zephyr.hackclub.com) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
+[💻 Website](https://zephyr.hackclub.com) | [🎥 Recap Video](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub)| [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Code Repositories](#-associated-code-repositories) | [🚀 Videos from Hack Clubbers](#-videos-from-hack-clubbers) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 Every summer, Hack Clubbers do something special.
 
@@ -142,6 +142,10 @@ The finances for the Hacker Zephyr are open sourced [here](https://bank.hackclub
 - [garden.zephyr - example static ZephyrNET app](https://github.com/hackclub/garden.zephyr)
 - [start.zephyr - instructions for getting started on ZephyrNET](https://github.com/hackclub/start.zephyr/tree/master/start.zephyr)
 - [captive portal for ZephyrNET](https://github.com/hackclub/captive.zephyr) (ultimately not used) 
+
+## 🚀 Videos from Hack Clubbers
+
+- [Hacker Zephyr Highlights (Neel Redkar)](https://www.youtube.com/watch?v=NQOnl8zphS8&ab_channel=NeelRedkar)
 
 ## ☀️ In Years Past
 
