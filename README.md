@@ -1,6 +1,6 @@
 # 🚂 The Hacker Zephyr 
 
-[💻 Website](https://zephyr.hackclub.com) | [🎥 Recap Video](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub)| [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repositories](#-associated-repositories) | [🚀 Videos from Hack Clubbers](#-videos-from-hack-clubbers) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
+[💻 Website](https://zephyr.hackclub.com) | [🎥 Documentary](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repositories](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 Every summer, Hack Clubbers do something special.
 
@@ -103,6 +103,8 @@ All of these colorful characters, interacting with a few dozen excited teenage h
 
 At the end of the trip, we were graciously hosted by SpaceX HQ in Hawthorne, LA, where we were given a tour of the rocket factory. Afterwards we had our final hackathon project demoes, which ended up taking a lot longer than expected (we're very grateful to SpaceX for letting us take the time to get through all of them). We all took photos outside with the rockets after that, and then we went back to the hotel. There was a bonfire at the end of the night, and flights _very_ early in the morning for everyone.
 
+Some Hack Clubbers on the trip wanted to share their perspective of the journey. Check out Neel Redkar's [Hacker Zephyr Highlights)](https://www.youtube.com/watch?v=NQOnl8zphS8&ab_channel=NeelRedkar) video!
+
 <!-- 
 
 This repo houses everything from the trip. Planning documents, financials, and GitHub repos.
@@ -145,7 +147,7 @@ The finances for the Hacker Zephyr are open sourced [here](https://bank.hackclub
 
 ## 🚀 Videos from Hack Clubbers
 
-- [Hacker Zephyr Highlights (Neel Redkar)](https://www.youtube.com/watch?v=NQOnl8zphS8&ab_channel=NeelRedkar)
+- 
 
 ## ☀️ In Years Past
 
