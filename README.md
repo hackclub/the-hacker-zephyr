@@ -1,6 +1,6 @@
 # 🚂 The Hacker Zephyr 
 
-[💻 Website](https://zephyr.hackclub.com) | [🎥 Documentary](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repositories](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
+[💻 Website](https://zephyr.hackclub.com) | [🎥 Documentary](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repos](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 Every summer, Hack Clubbers do something special.
 
