@@ -11,7 +11,7 @@ In 2020, 300 Hack Clubbers received $50,000 for hardware projects. We launched [
 **In 2021, we chartered a train, [The Hacker Zephyr](https://zephyr.hackclub.com), across America, and hosted the world's longest hackathon on land (3,502 miles).**
 
 [<img src="https://cloud-ha70ck9ah-hack-club-bot.vercel.app/0the_hacker_zephyr_compressed.gif" width="100%" />](https://www.youtube.com/watch?v=2BID8_pGuqA)  
-_The Zephyr passing through Rocky Flats, Colorado with 42 Hack Clubbers on board._  
+_The Hacker Zephyr passing through Rocky Flats, Colorado with 42 Hack Clubbers on board._  
 
 As a transparent and open-source 501(c)(3) nonprofit, Hack Club decided to make every detail and product of the Zephyr publicly available in this repo. Besides a brief narrative of The Hacker Zephyr journey, from how we first came up with the idea to our last stop in LA at SpaceX, here you can access all of our planning documents, financial records, and most importantly, a read-only copy of the ZephyrNET, our homemade mobile server which houses all of the projects Hack Clubbers completed while cruising across the USA.
 
