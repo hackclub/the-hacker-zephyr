@@ -21,7 +21,7 @@ This is the story of how we did it.
 
 ## Securing the Train
 
-It turns out chartering a train across America is actually quite a difficult thing to do. During the heyday of America's rail network in the 1940's, you could take a train almost anywhere, but today more than half the routes are closed and there's only one company still operating passenger service: Amtrak.
+It turns out chartering a train across America is actually quite a difficult thing to do. During the heyday of America's rail network in the 1940s, you could take a train almost anywhere, but today more than half the routes are closed and there's only one company still operating passenger service: Amtrak.
 
 <img src="https://cloud-3jwomswh7-hack-club-bot.vercel.app/05969009.jpg" width="39%" alt="Image of 1940s rail map in the USA" /> <img src="https://cloud-e5wyo56ga-hack-club-bot.vercel.app/0gv4sw.png" width="56%" alt="Image of Amtrak rail map" />  
 _America's passenger rail network in the 1940's vs. today._
