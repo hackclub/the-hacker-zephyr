@@ -1,4 +1,6 @@
-# 🚂 The Hacker Zephyr 
+# 🚂 The Hacker Zephyr
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fzephyr%2Fbalance)](https://bank.hackclub.com/zephyr)
 
 [💻 Website](https://zephyr.hackclub.com) | [🎥 Documentary](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repos](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
