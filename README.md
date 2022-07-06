@@ -1,7 +1,5 @@
 # 🚂 The Hacker Zephyr
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fzephyr%2Fbalance)](https://bank.hackclub.com/zephyr)
-
 [💻 Website](https://zephyr.hackclub.com) | [🎥 Documentary](https://www.youtube.com/watch?v=2BID8_pGuqA&ab_channel=HackClub) | [🗃 Planning Documents](#-planning-documents) | [💵 Finances](#-finances) | [💻 Associated Repos](#-associated-repositories) | [☀️ In Years Past](#%EF%B8%8F-in-years-past)
 
 Every summer, Hack Clubbers do something special.
@@ -130,6 +128,8 @@ Our planning docs are organized by topic into the following directories:
 | [./zephyrnet](/zephyrnet) | Technical documentation / notes on the hardware & software that went into building the Zephyr's intranet |
 
 ## 💵 Finances
+
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fbank-shields.hackclub.com%2Forganizations%2Fzephyr%2Fbalance)](https://bank.hackclub.com/zephyr)
 
 The finances for the Hacker Zephyr are open sourced [here](https://bank.hackclub.com/zephyr) through Hack Club Bank's [transparency mode](https://headwayapp.co/bank-changelog/transparent-finances-(optional-feature)-151427).
 
